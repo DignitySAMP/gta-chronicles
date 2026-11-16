@@ -69,6 +69,8 @@ Start it with `./omp-server` (or `omp-server.exe`) and connect with a 0.3.DL cli
 
 Some account ids are hardcoded from when the server was live. Accounts 1 and 6949 get a hidden /x chat (this used to be Dignity and Spooky's personal chat). Accounts 16341 and 16524 show up under an alias in /a. Account 1 (Dignity's old ID) has PMs blocked automatically. On a fresh database the first account you register becomes account 1 so keep that in mind, it's meant to be the 'owner' account...
 
+Plenty of bugs were fixed, including the dodgy vehicle system. It no longer depends on MAX_VEHICLES... The anticheat is a bit outdated still so if you intend to use this you have to find a decent replacement. Everything was tested with 3 people in a 0.3dl. The indentation remains quite outdated so you might want to run a linter on this lest you don't want to scratch out your eyes. 
+
 ## Features
 I tried summarizing what's in here, but it's far too much to mention. In a nutshell, this script has everything you could possibly need, built over years of QoL updates:
 
