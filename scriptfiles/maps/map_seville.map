@@ -1,0 +1,197 @@
+new g_Object[121];
+g_Object[0] = CreateObject(-1221, 2674.1015, -1990.7889, 15.1875, 0.0000, 0.0000, 0.0000, 2000.0000); //ryhes/seville/sbf_vp.dff
+g_Object[1] = CreateObject(-1252, 2651.4736, -2034.9664, 15.5515, 0.0000, 0.0000, 0.0000, 2000.0000); //reyo/sbf4_vp.dff
+g_Object[2] = CreateObject(1362, 2749.4741, -2000.2744, 13.1450, 0.0000, 0.0000, 0.0000, 100.0000); //CJ_FIREBIN_(L0)
+SetObjectMaterial(g_Object[2], 0, 5461, "glenpark6d_lae", "shutter01LA", 0xFF635C5A);
+SetObjectMaterial(g_Object[2], 1, 11391, "hubprops2_sfse", "blackbag", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[2], 2, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[3] = CreateObject(10252, 2723.6433, -2015.7978, 14.1906, 0.0000, 0.0000, 90.0000, 200.0000); //china_town_gateb
+g_Object[4] = CreateObject(12954, 2654.6518, -1971.9049, 12.9729, 0.0000, 0.0000, 90.0000, 200.0000); //sw_furnipile01
+SetObjectMaterial(g_Object[4], 0, 6404, "beafron1_law2", "shutter02LA", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[4], 1, 5461, "glenpark6d_lae", "shutter01LA", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[4], 2, 5461, "glenpark6d_lae", "shutter01LA", 0xFF335F3F);
+g_Object[5] = CreateObject(19479, 2646.5566, -1965.6832, 10.5909, 0.8000, 0.0000, -90.0000, 200.0000); //Plane005
+SetObjectMaterial(g_Object[5], 0, 14801, "lee_bdupsmain", "Bdup_graf2", 0xFFFFFFFF);
+g_Object[6] = CreateObject(19381, 2757.7543, -2024.1389, 12.5361, 0.0000, 90.0000, 0.0000, 200.0000); //wall029
+SetObjectMaterial(g_Object[6], 0, 4595, "crparkgm_lan2", "pavetilealley256128", 0xFFFFFFFF);
+g_Object[7] = CreateObject(19479, 2696.4020, -1965.6832, 11.5804, 2.5999, 0.0000, -90.0000, 200.0000); //Plane005
+SetObjectMaterial(g_Object[7], 0, 1528, "tags_laseville", "seville", 0xFF731827);
+g_Object[8] = CreateObject(3694, 2679.9943, -1950.4991, 12.9061, 0.0000, 0.0000, 42.2000, 200.0000); //ryder_holes
+g_Object[9] = CreateObject(19479, 2641.5717, -1972.6036, 11.6927, 0.8000, 0.0000, 90.0000, 200.0000); //Plane005
+SetObjectMaterial(g_Object[9], 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0xFFFFFFFF);
+g_Object[10] = CreateObject(19325, 2678.2170, -1972.6064, 12.6506, 0.0000, 0.0000, -90.0000, 200.0000); //lsmall_window01
+SetObjectMaterial(g_Object[10], 0, 4981, "wiresetc2_las", "ganggraf03_LA", 0xFFFFFFFF);
+g_Object[11] = CreateObject(-1255, 2677.6855, -1972.0061, 13.2657, 0.0000, 0.0000, 180.0000, 200.0000); //reyo/alley_bits.dff
+g_Object[12] = CreateObject(3646, 2676.8830, -1953.7281, 14.8739, 0.0000, 0.0000, -90.0000, 2000.0000); //ganghous05_LAx
+g_Object[13] = CreateObject(3648, 2640.6843, -1954.1063, 15.2740, 0.0000, 0.0000, -90.0000, 2000.0000); //ganghous02_LAx
+g_Object[14] = CreateObject(3589, 2660.1662, -1951.4543, 15.2536, 0.0000, 0.0000, 0.0000, 2000.0000); //compfukhouse3
+g_Object[15] = CreateObject(1419, 2658.0886, -1945.0477, 13.3992, 0.0000, 0.0000, 180.0000, 200.0000); //DYN_F_IRON_1
+g_Object[16] = CreateObject(1446, 2697.1005, -1942.3430, 13.3472, 0.0000, 0.0000, 180.0000, 200.0000); //DYN_F_R_WOOD_4
+g_Object[17] = CreateObject(1446, 2704.0036, -1948.2635, 13.3472, 0.0000, 0.0000, 90.0000, 200.0000); //DYN_F_R_WOOD_4
+g_Object[18] = CreateObject(1446, 2703.9836, -1944.6838, 13.3472, 0.0000, 0.0000, 90.0000, 200.0000); //DYN_F_R_WOOD_4
+g_Object[19] = CreateObject(1418, 2683.9208, -1942.3885, 13.2809, 0.0000, 0.0000, 0.0000, 200.0000); //DYN_F_WOOD_3
+g_Object[20] = CreateObject(1460, 2670.4216, -1942.3503, 13.3142, 0.0000, 0.0000, 180.0000, 200.0000); //DYN_F_R_WOOD_3
+g_Object[21] = CreateObject(1460, 2679.9216, -1942.3503, 13.3142, 0.0000, 0.0000, 180.0000, 200.0000); //DYN_F_R_WOOD_3
+g_Object[22] = CreateObject(1418, 2686.2006, -1944.0852, 13.2809, 0.0000, 0.0000, 106.8000, 200.0000); //DYN_F_WOOD_3
+g_Object[23] = CreateObject(1418, 2686.7011, -1947.5078, 13.2809, 0.0000, 0.0000, 90.0000, 200.0000); //DYN_F_WOOD_3
+g_Object[24] = CreateObject(1446, 2701.7416, -1942.3430, 13.3472, 0.0000, 0.0000, 180.0000, 200.0000); //DYN_F_R_WOOD_4
+g_Object[25] = CreateObject(1468, 2668.0236, -1944.9626, 13.7690, 0.0000, 0.0000, 90.0000, 200.0000); //DYN_MESH_05
+g_Object[26] = CreateObject(1468, 2665.3815, -1942.4012, 13.7690, 0.0000, 0.0000, 0.0000, 200.0000); //DYN_MESH_05
+g_Object[27] = CreateObject(19325, 2670.8103, -1965.6656, 12.4905, 0.0000, 0.0000, 90.0000, 200.0000); //lsmall_window01
+SetObjectMaterial(g_Object[27], 0, 4981, "wiresetc2_las", "ganggraf03_LA", 0xFFFFFFFF);
+g_Object[28] = CreateObject(994, 2627.5957, -2043.0937, 12.5572, 0.0000, 0.0000, 0.0000, 150.0000); //lhouse_barrier2
+g_Object[29] = CreateObject(994, 2627.6552, -2049.4140, 12.5572, 0.0000, 0.0000, 90.0000, 150.0000); //lhouse_barrier2
+g_Object[30] = CreateObject(3557, 2695.8549, -1957.7043, 14.9870, 0.0000, 0.0000, 0.0000, 2000.0000); //compmedhos4_LAe
+g_Object[31] = CreateObject(2256, 2750.8720, -1979.3092, 15.0747, 0.0000, -5.1999, 90.0000, 100.0000); //Frame_Clip_3
+SetObjectMaterial(g_Object[31], 0, 14801, "lee_bdupsmain", "Bdup_graf3", 0xFF000000);
+SetObjectMaterial(g_Object[31], 1, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[32] = CreateObject(1810, 2752.0817, -1980.2099, 14.0291, 0.0000, 0.0000, 180.0000, 100.0000); //CJ_FOLDCHAIR
+g_Object[33] = CreateObject(-1330, 2753.1552, -1980.8386, 15.1877, 0.0000, 0.0000, 0.0000, 100.0000); //reyo/beernew2.dff
+g_Object[34] = CreateObject(19622, 2751.4357, -1980.6014, 14.7390, 11.5999, 0.0000, 0.0000, 75.0000); //Broom1
+g_Object[35] = CreateObject(-1531, 2758.7675, -2021.5902, 12.9818, 0.0000, 0.0000, 0.0000, 150.0000); //ghetto_table_green.dff
+g_Object[36] = CreateObject(2674, 2752.4042, -1979.6241, 14.0579, 0.0000, 0.0000, -51.7999, 75.0000); //PROC_RUBBISH_2
+SetObjectMaterial(g_Object[36], 1, 1229, "signs", "busschedule64", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[36], 2, 17503, "furniture_lae2", "clukmenu1_LAe2", 0xFFFFFFFF);
+g_Object[37] = CreateObject(-1532, 2758.7255, -2025.7750, 12.9870, 0.0000, 0.0000, 0.0000, 150.0000); //ghetto_table_blue.dff
+g_Object[38] = CreateObject(1431, 2762.4948, -2026.8198, 13.1442, 0.0000, 0.0000, 90.0000, 75.0000); //DYN_BOX_PILE
+g_Object[39] = CreateObject(1468, 2758.8791, -2019.3337, 13.7819, 0.0000, 0.0000, 0.0000, 100.0000); //DYN_MESH_05
+g_Object[40] = CreateObject(-1532, 2800.7885, -2032.4349, 12.8872, 0.0000, 0.0000, 0.0000, 150.0000); //ghetto_table_blue.dff
+SetObjectMaterial(g_Object[40], 1, 6282, "beafron2_law2", "shutter03LA", 0xFF6D7A88);
+g_Object[41] = CreateObject(-1702, 2762.4472, -2025.4260, 12.6267, 0.0000, 0.0000, 151.1999, 75.0000); //mrp_reyo_cratehalfbottles
+SetObjectMaterial(g_Object[41], 0, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[41], 1, 2212, "burger_tray", "sprunk_cb", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[41], 2, 2799, "castable", "cl_winebtl2", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[41], 3, 1488, "dyn_objects", "CJ_bottle3", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[41], 4, 1488, "dyn_objects", "CJ_bottle3", 0xFFFFFFFF);
+g_Object[42] = CreateObject(1468, 2758.8791, -2028.9753, 13.7819, 0.0000, 0.0000, 0.0000, 100.0000); //DYN_MESH_05
+g_Object[43] = CreateObject(10252, 2785.3994, -1944.8187, 14.1906, 0.0000, 0.0000, 90.0000, 200.0000); //china_town_gateb
+g_Object[44] = CreateObject(1709, 2792.4921, -1942.6960, 12.5354, 0.0000, 0.0000, 0.0000, 100.0000); //kb_couch08
+SetObjectMaterial(g_Object[44], 0, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+g_Object[45] = CreateObject(10252, 2803.1618, -1944.4781, 14.1506, 0.0000, 0.0000, -90.0000, 200.0000); //china_town_gateb
+g_Object[46] = CreateObject(1372, 2787.9533, -1941.6228, 12.6876, 0.0000, 0.0000, 0.0000, 100.0000); //CJ_Dump2_LOW
+g_Object[47] = CreateObject(1810, 2790.9628, -1941.9294, 12.5291, 0.0000, 0.0000, 37.2000, 100.0000); //CJ_FOLDCHAIR
+g_Object[48] = CreateObject(2675, 2791.4350, -1942.7115, 12.6232, 0.0000, 0.0000, -49.7999, 75.0000); //PROC_RUBBISH_6
+SetObjectMaterial(g_Object[48], 0, 2212, "burger_tray", "bkidside", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[48], 3, 4004, "civic07_lan", "downtsign9_LA", 0xFF7A7560);
+g_Object[49] = CreateObject(1257, 2707.5881, -1961.3613, 13.7824, 0.0000, 0.0000, 180.0000, 170.0000); //bustopm
+SetObjectMaterial(g_Object[49], 0, 2691, "cj_base5", "base5_2", 0xFFFFFFFF);
+g_Object[50] = CreateObject(3260, 2623.3835, -2053.3896, 12.6119, -90.0000, 0.0000, 51.9999, 120.0000); //oldwoodpanel
+g_Object[51] = CreateObject(2676, 2624.6022, -2055.5620, 12.7769, 0.0000, 0.0000, 135.0000, 120.0000); //PROC_RUBBISH_8
+g_Object[52] = CreateObject(-1255, 2623.3261, -2038.7264, 13.2657, 0.0000, 0.0000, 90.0000, 200.0000); //reyo/alley_bits.dff
+g_Object[53] = CreateObject(8674, 2629.4401, -2036.4404, 13.9540, 0.0000, 0.0000, 0.0000, 100.0000); //csrsfence02_lvs
+g_Object[54] = CreateObject(8674, 2656.4023, -2059.1784, 13.9540, 0.0000, 0.0000, 0.0000, 100.0000); //csrsfence02_lvs
+g_Object[55] = CreateObject(8674, 2641.2812, -2059.1784, 13.9540, 0.0000, 0.0000, 0.0000, 100.0000); //csrsfence02_lvs
+g_Object[56] = CreateObject(2350, 2633.6076, -2043.4327, 12.8688, 0.0000, 0.0000, 0.0000, 75.0000); //CJ_BARSTOOL_2
+SetObjectMaterial(g_Object[56], 0, 6404, "beafron1_law2", "shutter02LA", 0xFF5E7072);
+g_Object[57] = CreateObject(2350, 2628.1242, -2048.8933, 12.8688, 0.0000, 0.0000, -51.0000, 75.0000); //CJ_BARSTOOL_2
+SetObjectMaterial(g_Object[57], 0, 6404, "beafron1_law2", "shutter02LA", 0xFF5E7072);
+g_Object[58] = CreateObject(671, 2700.9235, -1948.1604, 12.6857, 0.0000, 0.0000, 65.9999, 150.0000); //sm_bushytree
+g_Object[59] = CreateObject(1468, 2649.3635, -1962.6046, 14.5087, 0.0000, 0.0000, 90.0000, 200.0000); //DYN_MESH_05
+g_Object[60] = CreateObject(760, 2670.2238, -1944.6693, 12.6513, 0.0000, 0.0000, 0.0000, 150.0000); //sm_bush_small_1
+g_Object[61] = CreateObject(3532, 2666.0073, -1943.2961, 13.1007, 0.0000, 0.0000, -90.0000, 150.0000); //triadbush
+g_Object[62] = CreateObject(3407, 2655.7653, -1943.6035, 12.5381, 0.0000, 0.0000, 10.5999, 100.0000); //CE_mailbox1
+g_Object[63] = CreateObject(3407, 2645.2263, -1946.0251, 12.5381, 0.0000, 0.0000, 30.7999, 100.0000); //CE_mailbox1
+g_Object[64] = CreateObject(3407, 2672.0417, -1943.8203, 12.5381, 0.0000, 0.0000, -50.5998, 100.0000); //CE_mailbox1
+g_Object[65] = CreateObject(3408, 2688.0688, -1944.2508, 12.4905, 0.0000, 0.0000, 137.0000, 100.0000); //CE_mailbox2
+g_Object[66] = CreateObject(760, 2687.9672, -1947.5892, 12.6513, 0.0000, 0.0000, 0.0000, 150.0000); //sm_bush_small_1
+g_Object[67] = CreateObject(3532, 2645.5229, -1943.5362, 13.1007, 0.0000, 0.0000, -90.0000, 150.0000); //triadbush
+SetObjectMaterial(g_Object[67], 0, 701, "badlands", "newtreeleaves128", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[67], 1, 728, "gtatreeshi", "berrybush1", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[67], 2, 701, "badlands", "newtreeleaves128", 0xFFFFFFFF);
+g_Object[68] = CreateObject(1258, 2688.8837, -1937.9696, 13.1863, 0.0000, 0.0000, 0.0000, 120.0000); //Mpostbox1
+g_Object[69] = CreateObject(1825, 2663.4743, -1946.5238, 12.8030, 0.0000, 0.0000, -3.2000, 100.0000); //kb_table_chairs1
+SetObjectMaterial(g_Object[69], 0, 1355, "break_s_bins", "CJ_TABLE_TOP", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[69], 1, 18058, "mp_diner2", "mp_diner_table", 0xFFFFFFFF);
+g_Object[70] = CreateObject(1226, 2667.3334, -1936.6163, 16.2495, 0.0000, 0.0000, -90.0000, 150.0000); //lamppost3
+g_Object[71] = CreateObject(14826, 2650.9106, -2042.7064, 13.2040, 0.0000, 0.0000, -90.0000, 150.0000); //int_kbsgarage2
+g_Object[72] = CreateObject(1431, 2649.7690, -2040.0714, 13.0782, 0.0000, 0.0000, 106.0000, 75.0000); //DYN_BOX_PILE
+g_Object[73] = CreateObject(1267, 2806.8654, -2063.7661, 25.5573, 0.0000, 0.0000, 3.5999, 300.0000); //BillBd2
+g_Object[74] = CreateObject(994, 2743.4091, -1999.8258, 12.6033, 0.0000, 0.0000, 0.0000, 150.0000); //lhouse_barrier2
+SetObjectMaterial(g_Object[74], 0, 10765, "airportgnd_sfse", "ws_oldpainted2rusty", 0xFF9CA1A3);
+g_Object[75] = CreateObject(994, 2754.8281, -1999.8258, 12.6033, 0.0000, 0.0000, 0.0000, 150.0000); //lhouse_barrier2
+SetObjectMaterial(g_Object[75], 0, 10765, "airportgnd_sfse", "ws_oldpainted2rusty", 0xFF9CA1A3);
+g_Object[76] = CreateObject(994, 2727.8076, -1999.8258, 12.5628, 0.0000, 0.0000, 0.0000, 150.0000); //lhouse_barrier2
+SetObjectMaterial(g_Object[76], 0, 10765, "airportgnd_sfse", "ws_oldpainted2rusty", 0xFF9CA1A3);
+g_Object[77] = CreateObject(1428, 2753.2666, -2004.0428, 14.1750, 4.3997, 0.0000, 180.0000, 100.0000); //DYN_LADDER
+g_Object[78] = CreateObject(2713, 2752.8193, -2004.0100, 12.6722, 0.0000, 0.0000, 53.3997, 100.0000); //cj_bucket
+g_Object[79] = CreateObject(1280, 2747.3505, -2000.2314, 12.9511, 0.0000, 0.0000, 90.0000, 150.0000); //parkbench1
+SetObjectMaterial(g_Object[79], 1, 5461, "glenpark6d_lae", "shutter01LA", 0xFF9CA1A3);
+g_Object[80] = CreateObject(18100, 2733.0979, -2002.1811, 12.5522, 0.0000, 0.0000, 31.7999, 100.0000); //cj_RUBBISH01
+SetObjectMaterial(g_Object[80], 0, 15040, "cuntcuts", "newspaper1", 0xFF58595A);
+g_Object[81] = CreateObject(18100, 2752.8261, -2001.3270, 12.5522, 0.0000, 0.0000, -154.9998, 100.0000); //cj_RUBBISH01
+SetObjectMaterial(g_Object[81], 0, 726, "gtatreesh", "oakleaf2", 0xFF635C5A);
+g_Object[82] = CreateObject(1498, 2653.9743, -2047.4748, 12.5255, 0.0000, 0.0000, -90.0000, 150.0000); //Gen_doorEXT03
+g_Object[83] = CreateObject(-1222, 2768.4453, -2012.0937, 14.7966, 0.0000, 0.0000, 0.0000, 800.0000); //ryhes/seville/sbfstores.dff
+g_Object[84] = CreateObject(18005, 2730.0114, -2019.7989, 13.1688, 0.0000, 0.0000, 0.0000, 150.0000); //int_barberA01
+g_Object[85] = CreateObject(-1261, 2729.9924, -2034.0129, 12.6063, 0.0000, 0.0000, 0.0000, 150.0000); //ryhes/ganton24_objects.dff
+g_Object[86] = CreateObject(18002, 2729.4543, -2019.7329, 13.7959, 0.0000, 0.0000, 0.0000, 100.0000); //int_barberA02
+g_Object[87] = CreateObject(3278, 2724.3327, -2023.7729, 13.9559, 0.0000, 0.0000, 90.0000, 100.0000); //des_warewin
+SetObjectMaterial(g_Object[87], 0, 18081, "cj_barb", "ab_window_plastic", 0xFFFFFFFF);
+g_Object[88] = CreateObject(18081, 2728.6977, -2021.6687, 13.2482, 0.0000, 0.0000, 90.0000, 100.0000); //CJ_AB_Barber2_2
+SetObjectMaterial(g_Object[88], 1, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[88], 9, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[88], 10, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[89] = CreateObject(18001, 2729.4938, -2019.6761, 14.2966, 0.0000, 0.0000, 0.0000, 100.0000); //int_barberA07
+SetObjectMaterial(g_Object[89], 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+g_Object[90] = CreateObject(2608, 2734.2233, -2024.3354, 14.4011, 0.0000, 0.0000, -90.0000, 150.0000); //POLCE_SHELF
+SetObjectMaterial(g_Object[90], 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[90], 2, 1285, "newstand", "newstandnew256", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[90], 5, 14489, "carlspics", "AH_picture4", 0xFFFFFFFF);
+g_Object[91] = CreateObject(2608, 2734.2233, -2024.3557, 12.9811, 180.0000, 0.0000, 90.0000, 150.0000); //POLCE_SHELF
+SetObjectMaterial(g_Object[91], 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[91], 2, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[91], 5, 14489, "carlspics", "AH_picture4", 0xFFFFFFFF);
+g_Object[92] = CreateObject(2608, 2734.2233, -2026.2163, 12.9811, 180.0000, 0.0000, 90.0000, 150.0000); //POLCE_SHELF
+SetObjectMaterial(g_Object[92], 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[92], 1, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[92], 2, 2567, "ab", "Box_Texturepage", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[92], 3, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[92], 5, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[93] = CreateObject(14805, 2730.1665, -2025.1992, 13.3893, 0.0000, 0.0000, 0.0000, 150.0000); //BDupsNew_int
+g_Object[94] = CreateObject(2608, 2734.2233, -2026.1960, 14.4011, 0.0000, 0.0000, -90.0000, 150.0000); //POLCE_SHELF
+SetObjectMaterial(g_Object[94], 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[94], 1, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[94], 2, 2567, "ab", "Box_Texturepage", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[94], 3, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[94], 5, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[95] = CreateObject(2272, 2726.8666, -2027.9857, 14.1454, 0.0000, 0.0000, 180.0000, 100.0000); //Frame_Fab_5
+SetObjectMaterial(g_Object[95], 0, 14789, "ab_sfgymmain", "ab_wood02", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[95], 1, 2692, "cj_banner2", "BASE5_1", 0xFFFFFFFF);
+g_Object[96] = CreateObject(3278, 2724.3327, -2026.2629, 13.9559, 0.0000, 0.0000, 90.0000, 100.0000); //des_warewin
+SetObjectMaterial(g_Object[96], 0, 18081, "cj_barb", "ab_window_plastic", 0xFFFFFFFF);
+g_Object[97] = CreateObject(2260, 2729.5878, -2028.0240, 14.3704, 0.0000, 0.0000, 180.0000, 100.0000); //Frame_SLIM_1
+SetObjectMaterial(g_Object[97], 1, 5731, "melrose15_lawn", "yoyojos_law", 0xFFFFFFFF);
+g_Object[98] = CreateObject(2272, 2731.4504, -2027.9857, 14.0122, 0.0000, 4.7999, 180.0000, 100.0000); //Frame_Fab_5
+SetObjectMaterial(g_Object[98], 0, 14789, "ab_sfgymmain", "ab_wood02", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[98], 1, 5769, "sunrise09_lawn", "vinesign2_LAw", 0xFFFFFFFF);
+g_Object[99] = CreateObject(3278, 2724.3327, -2028.7534, 13.9559, 0.0000, 0.0000, 90.0000, 100.0000); //des_warewin
+SetObjectMaterial(g_Object[99], 0, 5397, "barrio1_lae", "sw_wind16", 0x99FFFFFF);
+g_Object[100] = CreateObject(2100, 2724.8041, -2028.2236, 12.6527, 0.0000, 0.0000, 128.8999, 50.0000); //MED_HI_FI_2
+g_Object[101] = CreateObject(994, 2633.9167, -2049.4140, 12.5572, 0.0000, 0.0000, 90.0000, 150.0000); //lhouse_barrier2
+g_Object[102] = CreateObject(994, 2627.5563, -2049.3750, 12.5572, 0.0000, 0.0000, 0.0000, 150.0000); //lhouse_barrier2
+g_Object[103] = CreateObject(18640, 2726.6630, -2028.3470, 12.5198, 0.0000, -31.0998, 0.0000, 25.0000); //Hair1
+g_Object[104] = CreateObject(2671, 2727.7761, -2022.0970, 12.6590, 0.0000, 0.0000, 0.0000, 25.0000); //PROC_RUBBISH_3
+SetObjectMaterial(g_Object[104], 0, 2749, "cj_hair", "HAIR_STUFF", 0xFFFFFFFF);
+g_Object[105] = CreateObject(2671, 2726.6135, -2025.4116, 12.6485, 0.0000, 0.0000, -58.2000, 100.0000); //PROC_RUBBISH_3
+g_Object[106] = CreateObject(18640, 2726.8698, -2028.3470, 12.4940, 0.0000, -143.8999, 0.0000, 25.0000); //Hair1
+g_Object[107] = CreateObject(19622, 2726.8056, -2028.3946, 13.3346, 7.6999, 0.0000, 0.0000, 25.0000); //Broom1
+g_Object[108] = CreateObject(19572, 2726.7236, -2028.3717, 12.3338, 0.0000, 0.0000, 0.0000, 100.0000); //PisshBox1
+SetObjectMaterial(g_Object[108], 0, 16640, "a51", "ventb128", 0xFFFFFFFF);
+g_Object[109] = CreateObject(18640, 2726.8698, -2028.1667, 12.4940, 0.0000, -143.8999, -103.9999, 25.0000); //Hair1
+g_Object[110] = CreateObject(3278, 2724.3327, -2035.4161, 13.9559, 0.0000, 0.0000, 90.0000, 100.0000); //des_warewin
+SetObjectMaterial(g_Object[110], 0, 5397, "barrio1_lae", "sw_wind16", 0x99FFFFFF);
+g_Object[111] = CreateObject(3278, 2724.3327, -2032.9150, 13.9559, 0.0000, 0.0000, 90.0000, 100.0000); //des_warewin
+SetObjectMaterial(g_Object[111], 0, 5397, "barrio1_lae", "sw_wind16", 0x99FFFFFF);
+g_Object[112] = CreateObject(3278, 2728.7927, -2039.1556, 13.9559, 0.0000, 0.0000, 0.0000, 100.0000); //des_warewin
+SetObjectMaterial(g_Object[112], 0, 5397, "barrio1_lae", "sw_wind16", 0x99FFFFFF);
+g_Object[113] = CreateObject(3278, 2731.2934, -2039.1556, 13.9559, 0.0000, 0.0000, 0.0000, 100.0000); //des_warewin
+SetObjectMaterial(g_Object[113], 0, 5397, "barrio1_lae", "sw_wind16", 0x99FFFFFF);
+g_Object[114] = CreateObject(16780, 2729.8669, -2023.8951, 16.2467, 0.0000, 0.0000, 0.0000, 100.0000); //ufo_light03
+g_Object[115] = CreateObject(-1255, 2640.0285, -2051.8674, 13.2657, 0.0000, 0.0000, -90.0000, 200.0000); //reyo/alley_bits.dff
+g_Object[116] = CreateObject(3260, 2623.0778, -2056.9348, 13.4692, -22.3999, 0.0000, 89.0000, 120.0000); //oldwoodpanel
+g_Object[117] = CreateObject(2659, 2621.8986, -2042.2667, 14.6422, 10.0000, 0.0000, -90.0000, 120.0000); //CJ_BANNER05
+SetObjectMaterialText(g_Object[117], "50 Ringz", 0, 90, "Comic Sans MS", 40, 1, 0xFF000000, 0x0, 1);
+g_Object[118] = CreateObject(19939, 2621.8959, -2042.2751, 14.6457, 0.0000, 79.4000, 0.0000, 100.0000); //MKShelf2
+SetObjectMaterial(g_Object[118], 0, 2567, "ab", "chipboard_256", 0xFFFFFFFF);
+g_Object[119] = CreateObject(1412, 2846.3312, -2075.9953, 11.3374, 0.0000, 0.0000, 84.3999, 250.0000); //DYN_MESH_2
+g_Object[120] = CreateObject(1412, 2847.7062, -2061.9802, 11.3374, 0.0000, 0.0000, 84.3999, 250.0000); //DYN_MESH_2

@@ -1,0 +1,25 @@
+ - Intricate list of up to 25 different fish species 
+ - Add 5-10 different fishing areas that are marked on the map using gangzones (to link species with)
+ (Red County rivers, Bone County rivers, Marina Bay, East Los Santos bay, ...)
+ - Make it so each of these fishing areas have their designated "sell" point or dock depending on how deep the ocean is
+ (This is usually a mapped place at the ocean like a dock, it's marked with an anchor mapicon)
+ - Class fish species by "Small, medium, large, deep sea, exotic, legendary" with higher tiers being more difficult
+ - Depending on how you fish, you have limited "storage". 
+ A normal person has 8 fish slots. 
+ A dingy has 16 fish slots. 
+ A fishing boat has 24 fish slots. 
+ A tug boat has 32 fish slots.
+ - Ability to fish at the docks for small fish with a small random chance at medium fish
+ - Ability to buy a dinghy and fish out to the Marina Bay for medium fish with a small random chance at large fish
+ - Ability to buy a fishing boat and fish out to the Red County river / Bone County bay for large fish; with small chance for deep sea fish
+ - Ability to buy a fishing tug boat and fish out to the deep sea (just outside of Los Santos, towards mexico) for exotic fish
+ - Ability to do a "fishing trawler" where two tug boats party up (minimum of 4 players, max of 8 players) for a chance at legendary fishes. 
+ (The trawler minigame saves so if you crash or /q you don't lose it. It's a "buff" that lasts up to 24 hours. )
+ (Ontop of default storage (tug and normal person) you also unlock 5 stores for small and medium, 4 large, 3 deep sea and 2 exotic)
+ (The trawler minigame can be one once every 3 hours and requires multiple players. It's the best money maker but requires the most effort)
+ (Fishing trawler triggers storms, having to "restart" the boat engine if it breaks down due to the storm and having to reel the fish in (1-2 players))
+ (The fishing trawler minigame occurs on the way to Mexico, far in the middle).
+ (The tug boat is a custom object that players can "sail" around. In order to fish, it must be stationary.)
+
+
+ https://www.youtube.com/watch?v=EtIEXz2Z6Sk

@@ -1,0 +1,49 @@
+new g_Object[28];
+g_Object[0] = CreateObject(-1282, 1918.9178, -1776.3098, 16.9738, 0.0000, 0.0000, 0.0000, 750.0000); //ryhes/idlegas.dff
+g_Object[1] = CreateObject(-1262, 1924.1064, -1778.7065, 12.5867, 0.0000, 0.0000, 90.0000, 750.0000); //ryhes/idlegas_objects.dff
+g_Object[2] = CreateObject(2666, 1922.3645, -1786.0665, 14.4059, 0.0000, 0.0000, 0.0000, 100.0000); //CJ_PIZ_POSTER2
+SetObjectMaterial(g_Object[2], 0, 5406, "jeffers5a_lae", "discwa1_LAe2", 0xFFFFFFFF);
+g_Object[3] = CreateObject(2666, 1922.0256, -1766.5869, 14.5657, 0.0000, 0.0000, 0.0000, 100.0000); //CJ_PIZ_POSTER2
+SetObjectMaterial(g_Object[3], 0, 12964, "sw_block09", "sw_genstore", 0xFFFFFFFF);
+g_Object[4] = CreateObject(11727, 1924.7504, -1770.2911, 16.7738, 90.0000, 0.0000, 0.0000, 100.0000); //PaperChaseLight1
+g_Object[5] = CreateObject(11727, 1924.7504, -1774.6524, 16.7738, 90.0000, 0.0000, 0.0000, 100.0000); //PaperChaseLight1
+g_Object[6] = CreateObject(11727, 1924.7504, -1782.3347, 16.7738, 90.0000, 0.0000, 0.0000, 100.0000); //PaperChaseLight1
+g_Object[7] = CreateObject(11727, 1916.5260, -1780.5141, 16.7738, 90.0000, 0.0000, 0.0000, 100.0000); //PaperChaseLight1
+g_Object[8] = CreateObject(11727, 1917.2867, -1769.0120, 16.7738, 90.0000, 0.0000, 0.0000, 100.0000); //PaperChaseLight1
+g_Object[9] = CreateObject(19826, 1920.9989, -1768.1710, 14.3342, 0.0000, 0.0000, 90.0000, 100.0000); //LightSwitch1
+g_Object[10] = CreateObject(19826, 1920.9989, -1768.1710, 14.5142, 0.0000, 0.0000, 90.0000, 100.0000); //LightSwitch1
+g_Object[11] = CreateObject(3278, 1923.3875, -1786.1805, 14.1107, 0.0000, 90.0000, 180.0000, 300.0000); //des_warewin
+SetObjectMaterial(g_Object[11], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[12] = CreateObject(16378, 1915.8348, -1768.8525, 13.3537, 0.0000, 0.0000, 90.0000, 100.0000); //des_byofficeint
+g_Object[13] = CreateObject(3278, 1926.3691, -1786.1805, 14.1107, 0.0000, 90.0000, 180.0000, 300.0000); //des_warewin
+SetObjectMaterial(g_Object[13], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[14] = CreateObject(1522, 1918.1269, -1773.5319, 12.5888, 0.0000, 0.0000, 90.0000, 100.0000); //Gen_doorSHOP3
+SetObjectMaterial(g_Object[14], 0, 3922, "bistro", "sw_door11", 0xFFFFFFFF);
+g_Object[15] = CreateObject(1766, 1918.2388, -1767.0653, 12.5851, 0.0000, 0.0000, 0.0000, 100.0000); //MED_COUCH_1
+SetObjectMaterial(g_Object[15], 0, 18028, "cj_bar2", "GB_nastybar09", 0xFFFFFFFF);
+g_Object[16] = CreateObject(3278, 1928.0898, -1784.3388, 14.1107, 0.0000, 90.0000, 90.0000, 300.0000); //des_warewin
+SetObjectMaterial(g_Object[16], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[17] = CreateObject(3278, 1928.0898, -1781.0983, 14.1107, 0.0000, 90.0000, 90.0000, 300.0000); //des_warewin
+SetObjectMaterial(g_Object[17], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[18] = CreateObject(3278, 1928.0898, -1771.3156, 14.1107, 0.0000, 90.0000, 90.0000, 300.0000); //des_warewin
+SetObjectMaterial(g_Object[18], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[19] = CreateObject(3278, 1928.0898, -1768.2349, 14.1107, 0.0000, 90.0000, 90.0000, 300.0000); //des_warewin
+SetObjectMaterial(g_Object[19], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[20] = CreateObject(3278, 1926.5897, -1766.4743, 14.1107, 0.0000, 90.0000, 0.0000, 300.0000); //des_warewin
+SetObjectMaterial(g_Object[20], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[21] = CreateObject(3278, 1923.6094, -1766.4743, 14.1107, 0.0000, 90.0000, 0.0000, 300.0000); //des_warewin
+SetObjectMaterial(g_Object[21], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[22] = CreateObject(2666, 1928.2656, -1773.8056, 14.1003, 0.0000, -0.1999, 90.0000, 100.0000); //CJ_PIZ_POSTER2
+SetObjectMaterial(g_Object[22], 0, 14690, "7_11_posters", "CJ_7_11_POST", 0xFFFFFFFF);
+g_Object[23] = CreateObject(2666, 1928.2656, -1778.8460, 14.2058, 0.0000, 1.1999, 90.0000, 100.0000); //CJ_PIZ_POSTER2
+SetObjectMaterial(g_Object[23], 0, 6909, "vgnptrlpmp", "soapytitwank_256", 0xFFFFFFFF);
+g_Object[24] = CreateObject(2666, 1918.8632, -1784.8140, 16.0019, 0.0000, -0.1999, 90.0000, 100.0000); //CJ_PIZ_POSTER2
+SetObjectMaterial(g_Object[24], 0, 14690, "7_11_posters", "CJ_7_11_POST2", 0xFFFFFFFF);
+g_Object[25] = CreateObject(1492, 1920.8028, -1770.4244, 12.5962, 0.0000, 0.0000, 90.0000, 100.0000); //Gen_doorINT02
+SetObjectMaterial(g_Object[25], 1, 14668, "711c", "CJ_7_11_win", 0xFFFFFFFF);
+g_Object[26] = CreateObject(1492, 1918.7814, -1781.7653, 12.5962, 0.0000, 0.0000, 90.0000, 100.0000); //Gen_doorINT02
+SetObjectMaterial(g_Object[26], 0, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[26], 1, 16093, "a51_ext", "des_backdoor1", 0xFFFFFFFF);
+g_Object[27] = CreateObject(1492, 1915.0598, -1786.1676, 12.6762, 0.0000, 0.0000, 0.0000, 100.0000); //Gen_doorINT02
+SetObjectMaterial(g_Object[27], 0, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[27], 1, 16093, "a51_ext", "des_backdoor1", 0xFFFFFFFF);

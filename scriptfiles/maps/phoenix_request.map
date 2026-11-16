@@ -1,0 +1,39 @@
+new g_Object[23];
+g_Object[0] = CreateObject(14872, 865.4110, -25.4381, 62.6006, 0.0000, 0.0000, -125.0000, 120.0000); //Kylie_logs
+g_Object[1] = CreateObject(3286, 861.6782, -10.0430, 66.3914, 0.0000, 0.0000, -5.9998, 120.0000); //cxrf_watertwr
+g_Object[2] = CreateObject(3403, 889.4544, -23.2094, 64.5496, 0.0000, 0.0000, -23.0000, 120.0000); //sw_logcover
+g_Object[3] = CreateObject(1763, 876.9318, -25.7175, 62.1683, 0.0000, 0.0000, -6.7999, 120.0000); //LOW_COUCH_1
+SetObjectMaterial(g_Object[3], 0, 18048, "gen_mun_xtars2", "star_spang", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[3], 1, 19598, "sfbuilding1", "darkwood1", 0xFFFFFFFF);
+g_Object[4] = CreateObject(2816, 877.3176, -28.2313, 62.6879, 0.0000, 0.0000, 13.7999, 75.0000); //gb_bedmags01
+g_Object[5] = CreateObject(2319, 876.5974, -27.9111, 62.1837, 0.0000, 0.0000, -21.7999, 120.0000); //CJ_TV_TABLE5
+SetObjectMaterial(g_Object[5], 0, 19598, "sfbuilding1", "darkwood1", 0xFFFFFFFF);
+g_Object[6] = CreateObject(-1331, 877.2694, -28.1529, 62.1855, 0.0000, 0.0000, -19.6000, 75.0000); //reyo/domino_table.dff
+SetObjectMaterial(g_Object[6], 13, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[7] = CreateObject(11245, 877.0916, -33.7952, 64.7714, 0.0000, -69.7996, 0.0000, 120.0000); //sfsefirehseflag
+SetObjectMaterial(g_Object[7], 0, 2047, "cj_ammo_posters", "cj_flag2", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[7], 1, 1453, "break_farm", "CJ_DarkWood", 0xFFFFFFFF);
+g_Object[8] = CreateObject(3276, 863.1312, -34.1221, 63.0195, 0.0000, 0.0000, -23.3999, 120.0000); //cxreffencesld
+g_Object[9] = CreateObject(18568, 865.3430, -16.1679, 62.8945, 0.0000, 0.0000, 14.5999, 120.0000); //Cs_Logs05
+SetObjectMaterial(g_Object[9], 0, 615, "gta_tree_boak", "bark04S64", 0xFFFFFFFF);
+g_Object[10] = CreateObject(2047, 874.8604, -25.2059, 64.5466, 0.0000, 0.0000, 67.0000, 120.0000); //CJ_FLAG1
+SetObjectMaterial(g_Object[10], 0, 18048, "gen_mun_xtars2", "star_spang", 0xFFFFFFFF);
+g_Object[11] = CreateObject(1763, 875.1173, -27.8612, 62.1683, 0.0000, 0.0000, 65.8000, 120.0000); //LOW_COUCH_1
+SetObjectMaterial(g_Object[11], 0, 650, "gta_cactus", "sjm cactus", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[11], 1, 19598, "sfbuilding1", "darkwood1", 0xFFFFFFFF);
+g_Object[12] = CreateObject(3276, 881.2448, -41.8650, 62.9818, -0.5999, 0.5999, -22.6000, 120.0000); //cxreffencesld
+g_Object[13] = CreateObject(18100, 872.7100, -31.2922, 62.2038, 0.0000, 0.0000, 6.7999, 75.0000); //cj_RUBBISH01
+SetObjectMaterial(g_Object[13], 0, 726, "gtatreesh", "oakleaf2", 0xFF5E7072);
+g_Object[14] = CreateObject(1362, 876.0952, -33.6375, 62.7919, 0.0000, 0.0000, 0.0000, 120.0000); //CJ_FIREBIN_(L0)
+SetObjectMaterial(g_Object[14], 0, 4850, "oldshops_las", "sanpedmark3", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[14], 1, 1344, "cj_bins2", "CJ_RUBBISH1", 0xFFFFFFFF);
+g_Object[15] = CreateObject(-1857, 862.0866, -12.4870, 62.2929, 0.9998, 3.0000, 0.0000, 75.0000); //mrp_waterpool_med.dff
+g_Object[16] = CreateObject(3276, 1031.6540, -44.6473, 88.0121, 0.0000, -2.2000, 65.7996, 120.0000); //cxreffencesld
+g_Object[17] = CreateObject(3276, 1029.4438, -33.4556, 87.9326, 0.0000, 3.0000, -179.3999, 120.0000); //cxreffencesld
+g_Object[18] = CreateObject(3335, 1034.2170, -40.6026, 86.0708, -9.9996, -9.5999, 72.3999, 120.0000); //CE_roadsign1
+SetObjectMaterial(g_Object[18], 2, 2047, "cj_ammo_posters", "cj_flag1", 0xFFFFFFFF);
+g_Object[19] = CreateObject(791, 779.9550, -49.1123, 27.1951, 0.0000, 0.0000, -36.7999, 450.0000); //vbg_fir_copse
+g_Object[20] = CreateObject(791, 983.0219, -58.4667, 70.1287, 0.0000, 0.0000, -84.5998, 450.0000); //vbg_fir_copse
+g_Object[21] = CreateObject(3374, 886.9876, -21.2075, 61.8484, 0.0000, 0.0000, -19.5998, 120.0000); //SW_haybreak02
+g_Object[22] = CreateObject(16281, 1035.1163, -36.5167, 89.9786, 0.0000, 0.0000, 83.1997, 250.0000); //des_fgateway01
+SetObjectMaterial(g_Object[22], 0, 615, "gta_tree_boak", "bark04S64", 0xFFFFFFFF);

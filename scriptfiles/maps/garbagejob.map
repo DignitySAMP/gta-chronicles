@@ -1,0 +1,80 @@
+new g_Object[24];
+g_Object[0] = CreateObject(10985, 2263.6838, -2685.8937, 13.6094, 0.0000, 0.0000, 40.7999, 300.0000); //rubbled02_SFS
+SetObjectMaterial(g_Object[0], 0, 5122, "ground3_las2", "Was_scrpyd_tires_pile", 0xFFFFFFFF);
+g_Object[1] = CreateObject(1462, 2237.8085, -2672.0314, 12.4588, 0.0000, 0.0000, 152.9998, 200.0000); //DYN_woodpile
+g_Object[2] = CreateObject(11280, 2234.7185, -2660.1142, 12.4820, 0.0000, 0.0000, -115.9999, 300.0000); //crackhseskid
+g_Object[3] = CreateObject(3722, 2270.8127, -2689.5900, 16.8791, 0.0000, 0.0000, 0.0000, 300.0000); //laxrf_scrapbox
+SetObjectMaterial(g_Object[3], 0, 5122, "ground3_las2", "Was_crush", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[3], 1, 18245, "cw_junkyardmachin", "Was_scrpyd_baler_gen_rvt", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[3], 2, 18245, "cw_junkyardmachin", "Was_scrpyd_baler_gen_rvt", 0xFFFFFFFF);
+g_Object[4] = CreateObject(2790, 2239.3930, -2675.3383, 18.8598, 0.0000, 0.0000, 179.8000, 300.0000); //CJ_ARRIVE_BOARD
+SetObjectMaterial(g_Object[4], 1, 17535, "lae2billboards", "SunBillB03", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[4], 2, 18246, "cw_junkyard2cs_t", "Was_scrpyd_carhood", 0xFFFFFFFF);
+g_Object[5] = CreateObject(8229, 2228.5007, -2668.9333, 15.2613, 0.0000, 0.0000, -22.3999, 300.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[5], 3, 10840, "bigshed_sfse", "ws_reinforcedbutwonky", 0xFFFFFFFF);
+g_Object[6] = CreateObject(8229, 2265.1035, -2705.2744, 15.2613, 0.0000, 0.0000, 0.0000, 300.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[6], 3, 6282, "beafron2_law2", "shutter03LA", 0xFFFFFFFF);
+g_Object[7] = CreateObject(8229, 2276.0803, -2684.9338, 15.2613, 0.0000, 0.0000, 90.0000, 300.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[7], 3, 10840, "bigshed_sfse", "ws_reinforcedbutwonky", 0xFFFFFFFF);
+g_Object[8] = CreateObject(8229, 2220.3056, -2705.2744, 15.2613, 0.0000, 0.0000, 0.0000, 300.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[8], 1, 6404, "beafron1_law2", "shutter02LA", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[8], 3, 10840, "bigshed_sfse", "ws_reinforcedbutwonky", 0xFFFFFFFF);
+g_Object[9] = CreateObject(8229, 2242.7248, -2705.2744, 15.2613, 0.0000, 0.0000, 0.0000, 300.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[9], 1, 5461, "glenpark6d_lae", "shutter01LA", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[9], 3, 10840, "bigshed_sfse", "ws_reinforcedbutwonky", 0xFFFFFFFF);
+g_Object[10] = CreateObject(8229, 2264.9790, -2673.6921, 15.2613, 0.0000, 0.0000, 0.0000, 300.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[10], 1, 18245, "cw_junkyardmachin", "Was_scrpyd_wall_grn", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[10], 3, 18249, "cw_junkyardccs_t", "Was_scrpyd_trk_contnr_sd", 0xFFFFFFFF);
+g_Object[11] = CreateObject(8229, 2276.0402, -2693.9348, 15.2613, 0.0000, 0.0000, 90.0000, 300.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[11], 3, 18245, "cw_junkyardmachin", "Was_scrpyd_baler_gen_rvt", 0xFFFFFFFF);
+g_Object[12] = CreateObject(18260, 2257.9899, -2698.2907, 14.0558, 0.0000, 0.0000, 21.0000, 200.0000); //crates01
+SetObjectMaterial(g_Object[12], 0, 5122, "ground3_las2", "Was_crush", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[12], 1, 5122, "ground3_las2", "Was_crush", 0xFFFFFFFF);
+g_Object[13] = CreateObject(18260, 2263.5722, -2681.4255, 13.9958, 0.0000, 0.0000, 76.7998, 200.0000); //crates01
+SetObjectMaterial(g_Object[13], 0, 5122, "ground3_las2", "Was_crush", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[13], 1, 5122, "ground3_las2", "Was_crush", 0xFFFFFFFF);
+g_Object[14] = CreateObject(18260, 2268.0817, -2695.8811, 14.0558, 0.0000, 0.0000, 90.0000, 200.0000); //crates01
+SetObjectMaterial(g_Object[14], 0, 5122, "ground3_las2", "Was_crush", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[14], 1, 5122, "ground3_las2", "Was_crush", 0xFFFFFFFF);
+g_Object[15] = CreateObject(1684, 2237.7856, -2698.8454, 14.1013, 0.0000, 0.0000, 0.0000, 300.0000); //portakabin
+SetObjectMaterial(g_Object[15], 0, 18247, "cw_junkyarddigcs_t", "Was_scrpyd_step", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[15], 1, 18247, "cw_junkyarddigcs_t", "Was_scrpyd_step", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[15], 2, 18247, "cw_junkyarddigcs_t", "Was_scrpyd_step", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[15], 4, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer_edge", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[15], 5, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[15], 6, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer_edge", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[15], 7, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[15], 8, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer_front", 0xFFFFFFFF);
+g_Object[16] = CreateObject(1684, 2227.7050, -2698.8454, 17.1413, 0.0000, 0.0000, 0.0000, 300.0000); //portakabin
+SetObjectMaterial(g_Object[16], 0, 18247, "cw_junkyarddigcs_t", "Was_scrpyd_step", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[16], 1, 18247, "cw_junkyarddigcs_t", "Was_scrpyd_step", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[16], 2, 18247, "cw_junkyarddigcs_t", "Was_scrpyd_step", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[16], 4, 3897, "libertyhi", "inddoorway128", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[16], 5, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[16], 6, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer_edge", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[16], 7, 17535, "lae2billboards", "SunBillB03", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[16], 8, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer_front", 0xFFFFFFFF);
+g_Object[17] = CreateObject(1265, 2236.3750, -2671.3791, 13.0508, 0.0000, 0.0000, -122.4000, 200.0000); //BlackBag2
+g_Object[18] = CreateObject(8572, 2228.7001, -2701.9008, 14.4933, 0.0000, 0.0000, 0.0000, 200.0000); //vgsSstairs02_lvs
+g_Object[19] = CreateObject(1684, 2227.7050, -2698.8454, 14.1013, 0.0000, 0.0000, 0.0000, 300.0000); //portakabin
+SetObjectMaterial(g_Object[19], 0, 18247, "cw_junkyarddigcs_t", "Was_scrpyd_step", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[19], 1, 18247, "cw_junkyarddigcs_t", "Was_scrpyd_step", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[19], 2, 18247, "cw_junkyarddigcs_t", "Was_scrpyd_step", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[19], 4, 3897, "libertyhi", "inddoorway128", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[19], 5, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[19], 6, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer_edge", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[19], 7, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[19], 8, 18246, "cw_junkyard2cs_t", "Was_scrpyd_trailer_front", 0xFFFFFFFF);
+g_Object[20] = CreateObject(19872, 2235.7001, -2698.8576, 15.1434, 0.0000, 0.0000, 90.0000, 200.0000); //CarFixerRamp2
+SetObjectMaterial(g_Object[20], 0, 18245, "cw_junkyardmachin", "Was_scrpyd_baler_decking", 0xFFFFFFFF);
+g_Object[21] = CreateObject(3576, 2236.0012, -2698.9865, 18.5403, 0.0000, 0.0000, 0.0000, 200.0000); //DockCrates2_LA
+SetObjectMaterial(g_Object[21], 0, 9583, "bigshap_sfw", "freight_crate6", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[21], 1, 18249, "cw_junkyardccs_t", "Was_scrpyd_trk_contnr_sd", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[21], 2, 18249, "cw_junkyardccs_t", "Was_scrpyd_trk_contnr_sd", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[21], 3, 3066, "ammotrx", "ammotrn92crate64", 0xFFFFFFFF);
+g_Object[22] = CreateObject(3576, 2241.1848, -2698.7263, 17.0543, 0.0000, -2.8000, 180.0000, 200.0000); //DockCrates2_LA
+SetObjectMaterial(g_Object[22], 0, 9583, "bigshap_sfw", "freight_crate5", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[22], 1, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[22], 2, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[22], 3, 2972, "k_cratesx", "747_crate", 0xFFFFFFFF);
+g_Object[23] = CreateObject(1265, 2238.2243, -2672.1972, 13.0508, 0.0000, 0.0000, 72.1999, 200.0000); //BlackBag2

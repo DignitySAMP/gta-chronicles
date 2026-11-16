@@ -1,0 +1,4 @@
+new g_Object[2];
+g_Object[0] = CreateObject(2885, 2293.6511, 2497.2990, -1.2983, 0.0000, 0.0000, 90.0000, 150.0000); //xref_garagedoor
+SetObjectMaterial(g_Object[0], 1, 10765, "airportgnd_sfse", "black64", 0xFFFFFFFF);
+g_Object[1] = CreateObject(2885, 2293.7512, 2497.2990, -1.8983, 0.0000, 0.0000, 90.0000, 150.0000); //xref_garagedoor

@@ -1,0 +1,71 @@
+new g_Object[24];
+g_Object[0] = CreateObject(11392, 1610.6418, -2143.2402, 12.7838, 0.0000, 0.0000, 0.0000, 200.0000); //hubfloorstains_SFSe
+g_Object[1] = CreateObject(8229, 1641.0799, -2160.3713, 15.1920, 0.0000, 0.0000, 180.0000, 200.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[1], 1, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[1], 3, 17072, "truckedepotlawn", "GB_truckdepot07", 0xFFFFFFFF);
+g_Object[2] = CreateObject(8229, 1652.1827, -2149.3806, 15.1920, 0.0000, 0.0000, -90.0000, 200.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[2], 1, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[2], 3, 17072, "truckedepotlawn", "GB_truckdepot07", 0xFFFFFFFF);
+g_Object[3] = CreateObject(8229, 1627.7403, -2130.3110, 15.1920, 0.0000, 0.0000, 0.0000, 200.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[3], 1, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[3], 3, 5040, "shopliquor_las", "mural02_LA", 0xFFFFFFFF);
+g_Object[4] = CreateObject(19313, 1623.0332, -2160.4035, 12.5881, 0.0000, 0.0000, 0.0000, 200.0000); //a51fensin
+SetObjectMaterial(g_Object[4], 0, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[4], 1, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+g_Object[5] = CreateObject(19313, 1598.4554, -2133.8264, 12.5881, 0.0000, 0.0000, 30.2000, 200.0000); //a51fensin
+SetObjectMaterial(g_Object[5], 0, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[5], 1, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+g_Object[6] = CreateObject(19313, 1652.2430, -2137.3442, 12.5881, 0.0000, 0.0000, -90.0000, 200.0000); //a51fensin
+SetObjectMaterial(g_Object[6], 0, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[6], 1, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+g_Object[7] = CreateObject(19313, 1590.0058, -2143.9494, 12.5881, 0.0000, 0.0000, 69.8999, 200.0000); //a51fensin
+SetObjectMaterial(g_Object[7], 0, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[7], 1, 8034, "vgsswarhse04", "GB_truckdepot14", 0xFFFFFFFF);
+g_Object[8] = CreateObject(13590, 1593.0201, -2144.3020, 13.8746, -0.6998, 0.0000, 175.3999, 200.0000); //kickbus04
+SetObjectMaterial(g_Object[8], 10, 10850, "bakerybit2_sfse", "frate64_yellow", 0xFFFFFFFF);
+g_Object[9] = CreateObject(11391, 1605.6457, -2155.1833, 13.8413, 0.0000, 0.0000, 0.0000, 200.0000); //hubprops6_SFSe
+SetObjectMaterial(g_Object[9], 3, 17072, "truckedepotlawn", "GB_truckdepot02", 0xFFFFFFFF);
+g_Object[10] = CreateObject(19313, 1622.5527, -2137.3227, 12.3178, 0.0000, 0.0000, 90.0000, 200.0000); //a51fensin
+SetObjectMaterial(g_Object[10], 0, 18250, "cw_junkbuildcs_t", "Was_scrpyd_fence_wd_stain", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[10], 1, 16098, "des_boneyard", "Was_meshfence", 0xFFFFFFFF);
+g_Object[11] = CreateObject(19313, 1615.7733, -2137.8422, 13.0080, 0.0000, 0.0000, 90.0000, 200.0000); //a51fensin
+SetObjectMaterial(g_Object[11], 0, 18045, "gen_munation", "mp_gun_shutter", 0xFFD78E10);
+SetObjectMaterial(g_Object[11], 1, 6404, "beafron1_law2", "shutter02LA", 0xFFFFFFFF);
+g_Object[12] = CreateObject(19325, 1612.6837, -2160.3381, 14.2782, 0.0000, 0.0000, 90.0000, 200.0000); //lsmall_window01
+SetObjectMaterial(g_Object[12], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[13] = CreateObject(19325, 1612.6236, -2130.4570, 14.2782, 0.0000, 0.0000, 90.0000, 200.0000); //lsmall_window01
+SetObjectMaterial(g_Object[13], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[14] = CreateObject(19325, 1615.7347, -2157.2763, 14.2782, 0.0000, 0.0000, 0.0000, 200.0000); //lsmall_window01
+SetObjectMaterial(g_Object[14], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[15] = CreateObject(19313, 1604.6427, -2148.6616, 12.9481, 0.0000, 0.0000, 90.0000, 200.0000); //a51fensin
+SetObjectMaterial(g_Object[15], 0, 18045, "gen_munation", "mp_gun_shutter", 0xFFD78E10);
+SetObjectMaterial(g_Object[15], 1, 5461, "glenpark6d_lae", "shutter01LA", 0xFFFFFFFF);
+g_Object[16] = CreateObject(19313, 1604.6427, -2138.4804, 12.7081, 0.0000, 0.0000, 90.0000, 200.0000); //a51fensin
+SetObjectMaterial(g_Object[16], 0, 18045, "gen_munation", "mp_gun_shutter", 0xFFD78E10);
+SetObjectMaterial(g_Object[16], 1, 6282, "beafron2_law2", "shutter03LA", 0xFFFFFFFF);
+g_Object[17] = CreateObject(13295, 1629.4597, -2145.3544, 19.0844, 0.0000, 0.0000, 180.0000, 300.0000); //CE_terminal1
+SetObjectMaterial(g_Object[17], 1, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[17], 2, 17072, "truckedepotlawn", "GB_truckdepot02", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[17], 3, 14407, "carter_block", "mp_carter_ceiling", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[17], 4, 14443, "ganghoos", "ah_yelbadwall", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[17], 5, 14443, "ganghoos", "ab_wall3", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[17], 7, 3525, "excaliburtorch", "sw_cabinwall01", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[17], 10, 3525, "excaliburtorch", "sw_cabinwall01", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[17], 11, 17072, "truckedepotlawn", "GB_truckdepot07", 0xFFFFFFFF);
+g_Object[18] = CreateObject(18284, 1643.1529, -2156.8549, 15.3548, 0.0000, 0.0000, 90.0000, 200.0000); //cw_tscanopy
+SetObjectMaterial(g_Object[18], 1, 14443, "ganghoos", "ah_yelbadwall", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[18], 2, 3525, "excaliburtorch", "sw_cabinwall01", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[18], 3, 13295, "ce_terminal", "mp_gimp_oilfloor", 0xFFFFFFFF);
+g_Object[19] = CreateObject(11392, 1640.5483, -2146.1372, 12.5838, 0.0000, 0.0000, -135.1999, 200.0000); //hubfloorstains_SFSe
+g_Object[20] = CreateObject(19325, 1652.1572, -2143.5361, 14.3312, 0.0000, 0.0000, 0.0000, 200.0000); //lsmall_window01
+SetObjectMaterial(g_Object[20], 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0xAAFFFFFF);
+g_Object[21] = CreateObject(19325, 1632.7175, -2130.3557, 14.0812, 0.0000, 0.0000, 90.0000, 200.0000); //lsmall_window01
+SetObjectMaterial(g_Object[21], 0, 5069, "ctscene_las", "cleargraf02_LA", 0xAAFFFFFF);
+g_Object[22] = CreateObject(19313, 1623.0332, -2160.3835, 12.5881, 0.0000, 0.0000, 0.0000, 200.0000); //a51fensin
+SetObjectMaterial(g_Object[22], 0, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[22], 1, 5461, "glenpark6d_lae", "shutter01LA", 0xAAFFFFFF);
+g_Object[23] = CreateObject(8229, 1641.0799, -2160.3605, 15.1721, 0.0000, 0.0000, 180.0000, 200.0000); //vgSbikeschl02
+SetObjectMaterial(g_Object[23], 0, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[23], 1, 6282, "beafron2_law2", "shutter03LA", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[23], 2, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[23], 3, 19297, "matlights", "invisible", 0xFFFFFFFF);

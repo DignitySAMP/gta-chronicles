@@ -1,0 +1,25 @@
+new g_Object[16];
+g_Object[0] = CreateObject(1709, 2172.9099, -1586.3913, 13.2829, 0.0000, 0.0000, 0.0000, 150.0000); //kb_couch08
+g_Object[1] = CreateObject(2319, 2174.2202, -1587.5971, 13.3168, 0.0000, 0.0000, -13.2000, 150.0000); //CJ_TV_TABLE5
+SetObjectMaterial(g_Object[1], 0, 6404, "beafron1_law2", "shutter02LA", 0xFFFFFFFF);
+g_Object[2] = CreateObject(910, 2164.3969, -1608.1221, 14.5964, 0.0000, 0.0000, 70.3999, 150.0000); //BUST_CABINET_4
+g_Object[3] = CreateObject(2676, 2165.6940, -1608.2800, 13.4847, 0.0000, 0.0000, -87.5999, 150.0000); //PROC_RUBBISH_8
+g_Object[4] = CreateObject(1810, 2157.2590, -1598.6922, 13.3630, 0.0000, 0.0000, 142.3999, 150.0000); //CJ_FOLDCHAIR
+g_Object[5] = CreateObject(1810, 2158.6801, -1599.1634, 13.3630, 0.0000, 0.0000, -171.4000, 150.0000); //CJ_FOLDCHAIR
+g_Object[6] = CreateObject(1810, 2148.1440, -1583.7902, 13.3630, 0.0000, 0.0000, 34.3999, 150.0000); //CJ_FOLDCHAIR
+g_Object[7] = CreateObject(12954, 2106.4873, -1592.1303, 13.0866, 0.0000, 0.0000, 90.0000, 150.0000); //sw_furnipile01
+g_Object[8] = CreateObject(7933, 2112.5280, -1577.1174, 12.8826, 0.0000, 0.0000, 0.0000, 150.0000); //vegascrashbar06
+g_Object[9] = CreateObject(7933, 2112.5280, -1570.0369, 12.8826, 0.0000, 0.0000, 180.0000, 150.0000); //vegascrashbar06
+g_Object[10] = CreateObject(3657, 2119.5400, -1565.6031, 12.8151, 0.0000, 0.0000, -41.6000, 150.0000); //airseata_LAS
+SetObjectMaterial(g_Object[10], 1, 3374, "ce_farmxref", "sw_woodflloorsplat", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[10], 2, 9514, "711_sfw", "brick", 0xFFFFFFFF);
+g_Object[11] = CreateObject(3657, 2110.9013, -1563.6658, 12.8151, 0.0000, 0.0000, 0.0000, 150.0000); //airseata_LAS
+SetObjectMaterial(g_Object[11], 1, 3374, "ce_farmxref", "sw_woodflloorsplat", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[11], 2, 9514, "711_sfw", "brick", 0xFFFFFFFF);
+g_Object[12] = CreateObject(3657, 2112.1721, -1582.7916, 12.8151, 0.0000, 0.0000, 178.5999, 150.0000); //airseata_LAS
+SetObjectMaterial(g_Object[12], 1, 3374, "ce_farmxref", "sw_woodflloorsplat", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[12], 2, 9514, "711_sfw", "brick", 0xFFFFFFFF);
+g_Object[13] = CreateObject(2675, 2103.8623, -1570.6695, 12.4380, 0.0000, 0.0000, 0.0000, 150.0000); //PROC_RUBBISH_6
+g_Object[14] = CreateObject(1280, 2191.3374, -1627.2347, 15.0823, -3.7999, 0.0000, 166.7999, 150.0000); //parkbench1
+g_Object[15] = CreateObject(2675, 2112.4843, -1577.3459, 12.6180, 0.0000, 0.0000, 88.5999, 150.0000); //PROC_RUBBISH_6
+SetObjectMaterial(g_Object[15], 3, 14612, "ab_abattoir_box", "ab_bloodfloor", 0xFFFFFFFF);

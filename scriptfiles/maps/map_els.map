@@ -1,0 +1,5 @@
+new g_Object[4];
+g_Object[0] = CreateObject(-1355, 2464.3442, -1379.8331, 30.8041, 0.0000, 0.0000, 0.0000, 500.0000); //kosidian/mural3.dff
+g_Object[1] = CreateObject(-1354, 2464.4860, -1428.1218, 30.8159, 0.0000, 0.0000, 0.0000, 500.0000); //kosidian/mural4.dff
+g_Object[2] = CreateObject(-1356, 2498.2531, -1379.7801, 30.8176, 0.0000, 0.0000, 0.0000, 500.0000); //kosidian/mural2.dff
+g_Object[3] = CreateObject(-1357, 2498.0595, -1413.8464, 30.8150, 0.0000, 0.0000, 0.0000, 130.0000); //kosidian/mural1.dff

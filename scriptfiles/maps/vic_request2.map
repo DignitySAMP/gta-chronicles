@@ -1,0 +1,24 @@
+new g_Object[15];
+g_Object[0] = CreateObject(3802, 2140.0310, -1177.0694, 26.7702, 0.0000, 0.0000, 0.0000, 150.0000); //sfx_plant03
+g_Object[1] = CreateObject(3802, 2140.0310, -1169.5483, 26.7702, 0.0000, 0.0000, 0.0000, 150.0000); //sfx_plant03
+g_Object[2] = CreateObject(1825, 2140.9570, -1171.2324, 22.9827, 0.0000, 0.0000, -42.3997, 150.0000); //kb_table_chairs1
+SetObjectMaterial(g_Object[2], 0, 2098, "cj_int", "CJ_RED_WOOD", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[2], 1, 2799, "castable", "cl_redwine_gls", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[2], 2, 2098, "cj_int", "CJ_RED_WOOD", 0xFFFFFFFF);
+g_Object[3] = CreateObject(1825, 2140.8481, -1174.8199, 22.9827, 0.0000, 0.0000, 0.0000, 150.0000); //kb_table_chairs1
+SetObjectMaterial(g_Object[3], 0, 2098, "cj_int", "CJ_RED_WOOD", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[3], 1, 2799, "castable", "cl_redwine_gls", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[3], 2, 2098, "cj_int", "CJ_RED_WOOD", 0xFFFFFFFF);
+g_Object[4] = CreateObject(1778, 2139.2905, -1169.7099, 22.9951, 0.0000, 0.0000, 180.0000, 150.0000); //CJ_MOP_PAIL
+g_Object[5] = CreateObject(1825, 1786.3170, -1164.0604, 22.8012, 0.0000, 0.0000, -127.0000, 150.0000); //kb_table_chairs1
+g_Object[6] = CreateObject(1825, 1782.5173, -1162.8376, 22.8012, 0.0000, 0.0000, -82.8000, 150.0000); //kb_table_chairs1
+g_Object[7] = CreateObject(1825, 1795.7231, -1166.5378, 22.8012, 0.0000, 0.0000, -127.0000, 150.0000); //kb_table_chairs1
+g_Object[8] = CreateObject(1825, 1799.5185, -1167.6185, 22.8012, 0.0000, 0.0000, 175.2998, 150.0000); //kb_table_chairs1
+g_Object[9] = CreateObject(3801, 1787.7303, -1162.9449, 26.7000, 0.0000, 0.0000, -107.1996, 150.0000); //sfx_lite04
+g_Object[10] = CreateObject(3801, 1794.8697, -1164.8392, 26.7800, 0.0000, 0.0000, -107.1996, 150.0000); //sfx_lite04
+g_Object[11] = CreateObject(3806, 1784.0769, -1162.1185, 26.7325, 0.0000, 0.0000, -105.0000, 150.0000); //sfx_winplant07
+g_Object[12] = CreateObject(3806, 1798.3529, -1165.9431, 26.7325, 0.0000, 0.0000, -105.0000, 150.0000); //sfx_winplant07
+g_Object[13] = CreateObject(2599, 1788.4056, -1163.1555, 23.2851, 0.0000, 0.0000, 0.0000, 120.0000); //CJ_SEX_SHOP_SIGN
+SetObjectMaterial(g_Object[13], 0, 6404, "beafron1_law2", "cafe01_law", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[13], 1, 642, "canopy", "wood02", 0xFFFFFFFF);
+g_Object[14] = CreateObject(2714, 1796.3299, -1164.7519, 25.0160, 0.0000, 0.0000, -13.9996, 150.0000); //CJ_OPEN_SIGN_2

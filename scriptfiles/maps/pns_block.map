@@ -1,0 +1,28 @@
+new g_Object[13];
+g_Object[0] = CreateObject(19790, 1025.1363, -1027.0085, 31.0645, 0.0000, 0.0000, 0.0000, 100.0000); //Cube5mx5m
+SetObjectMaterial(g_Object[0], 0, 18045, "gen_munation", "mp_gun_shutter", 0xFFFFFFFF);
+g_Object[1] = CreateObject(971, -1904.0157, 278.1647, 43.0438, 0.0000, 0.0000, 180.0000, 75.0000); //subwaygate
+SetObjectMaterial(g_Object[1], 2, 11395, "corvinsign_sfse", "shutters", 0xFFFFFFFF);
+g_Object[2] = CreateObject(19790, 488.1539, -1737.2905, 9.9568, 0.0000, 0.0000, -4.7999, 75.0000); //Cube5mx5m
+SetObjectMaterial(g_Object[2], 0, 6282, "beafron2_law2", "LoadingDoorClean", 0xFFFFFFFF);
+g_Object[3] = CreateObject(19790, 719.9627, -460.0270, 14.4722, 0.0000, 0.0000, 0.0000, 75.0000); //Cube5mx5m
+SetObjectMaterial(g_Object[3], 0, 6282, "beafron2_law2", "LoadingDoorClean", 0xFFFFFFFF);
+g_Object[4] = CreateObject(19791, 1973.5377, 2162.0688, 4.5756, 0.0000, 0.0000, 0.0000, 75.0000); //Cube10mx10m
+SetObjectMaterial(g_Object[4], 0, 6282, "beafron2_law2", "LoadingDoorClean", 0xFFFFFFFF);
+g_Object[5] = CreateObject(971, -99.6631, 1111.6097, 20.7180, 0.0000, 0.0000, 0.0000, 75.0000); //subwaygate
+SetObjectMaterial(g_Object[5], 1, 19297, "matlights", "invisible", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[5], 2, 11395, "corvinsign_sfse", "shutters", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[5], 3, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[6] = CreateObject(971, -1420.6363, 2590.5561, 56.7317, 0.0000, 0.0000, 0.0000, 75.0000); //subwaygate
+SetObjectMaterial(g_Object[6], 2, 3586, "la_props1", "shutters2", 0xFFFFFFFF);
+g_Object[7] = CreateObject(19790, -1786.8747, 1211.9847, 23.2390, 0.0000, 0.0000, 0.0000, 75.0000); //Cube5mx5m
+g_Object[8] = CreateObject(971, -2425.8642, 1028.0400, 51.8973, 0.0000, 0.0000, 0.0000, 75.0000); //subwaygate
+SetObjectMaterial(g_Object[8], 2, 11395, "corvinsign_sfse", "shutters", 0xFFFFFFFF);
+g_Object[9] = CreateObject(19790, 2006.0771, 2305.8449, 9.6134, 0.0000, 0.0000, 0.0000, 300.0000); //Cube5mx5m
+SetObjectMaterial(g_Object[9], 0, 18045, "gen_munation", "mp_gun_shutter", 0xFFFFFFFF);
+g_Object[10] = CreateObject(19790, 2005.9570, 2315.4277, 9.6134, 0.0000, 0.0000, 0.0000, 300.0000); //Cube5mx5m
+SetObjectMaterial(g_Object[10], 0, 18045, "gen_munation", "mp_gun_shutter", 0xFFFFFFFF);
+g_Object[11] = CreateObject(19791, 2386.6052, 1048.5179, 4.0141, 0.0000, 0.0000, 0.0000, 150.0000); //Cube10mx10m
+SetObjectMaterial(g_Object[11], 0, 17064, "cw2_storesnstuff", "des_garagedoor1", 0xFFFFFFFF);
+g_Object[12] = CreateObject(19790, 1041.3758, -1023.4680, 31.0645, 0.0000, 0.0000, 0.0000, 100.0000); //Cube5mx5m
+SetObjectMaterial(g_Object[12], 0, 18045, "gen_munation", "mp_gun_shutter", 0xFFFFFFFF);

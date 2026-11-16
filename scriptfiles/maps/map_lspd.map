@@ -1,0 +1,14 @@
+new g_Object[8];
+g_Object[0] = CreateObject(3578, 1549.2425, -1622.5446, 12.5181, 0.0000, 0.0000, 0.0000, 150.0000); //DockBarr1_LA
+g_Object[1] = CreateObject(3578, 1549.2425, -1633.1846, 12.5181, 0.0000, 0.0000, 0.0000, 150.0000); //DockBarr1_LA
+g_Object[2] = CreateObject(19383, 1549.4979, -1619.4321, 14.1637, 0.0000, 0.0000, 0.0000, 150.0000); //wall031
+SetObjectMaterial(g_Object[2], 0, 10429, "hashblock1_sfs", "Bow_Concrete_drip", 0xFFFFFFFF);
+g_Object[3] = CreateObject(19426, 1549.5040, -1621.8194, 14.1640, 0.0000, 0.0000, 0.0000, 150.0000); //wall066
+SetObjectMaterial(g_Object[3], 0, 10429, "hashblock1_sfs", "Bow_Concrete_drip", 0xFFFFFFFF);
+g_Object[4] = CreateObject(19449, 1549.5008, -1637.8167, 14.1368, 0.0000, 0.0000, 0.0000, 150.0000); //wall089
+SetObjectMaterial(g_Object[4], 0, 10429, "hashblock1_sfs", "Bow_Concrete_drip", 0xFFFFFFFF);
+g_Object[5] = CreateObject(19865, 1551.8859, -1622.6114, 13.2367, 0.0000, 0.0000, 90.0000, 150.0000); //MIFenceWood1
+SetObjectMaterial(g_Object[5], 0, 3306, "cunte_house1", "pinkfence_law", 0xFFFFFFFF);
+g_Object[6] = CreateObject(19865, 1551.8859, -1632.9925, 13.2367, 0.0000, 0.0000, 90.0000, 150.0000); //MIFenceWood1
+SetObjectMaterial(g_Object[6], 0, 3306, "cunte_house1", "pinkfence_law", 0xFFFFFFFF);
+g_Object[7] = CreateObject(18850, 977.1527, -1531.5135, 61.7759, 0.0000, 0.0000, 0.0000, 500.0000); //HeliPad1

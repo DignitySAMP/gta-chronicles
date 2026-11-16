@@ -1,0 +1,565 @@
+new g_Object[331];
+g_Object[0] = CreateObject(19377, 2392.0283, -1214.6944, -5.9292, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[0], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[1] = CreateObject(19364, 2391.5598, -1217.5178, -4.3670, 0.0000, 0.0000, 90.0000); //wall012
+SetObjectMaterial(g_Object[1], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[2] = CreateObject(19377, 2392.0283, -1205.0649, -5.9292, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[2], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[3] = CreateObject(19377, 2402.5107, -1205.0649, -5.9292, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[3], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[4] = CreateObject(19377, 2402.5107, -1214.6850, -5.9292, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[4], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[5] = CreateObject(19381, 2401.2126, -1219.4454, -4.4208, 0.0000, 0.0000, 90.0000); //wall029
+SetObjectMaterial(g_Object[5], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[6] = CreateObject(19381, 2386.7517, -1214.6029, -4.4208, 0.0000, 0.0000, 0.0000); //wall029
+SetObjectMaterial(g_Object[6], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[7] = CreateObject(19381, 2391.5957, -1212.1037, -4.4208, 0.0000, 0.0000, 90.0000); //wall029
+SetObjectMaterial(g_Object[7], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[8] = CreateObject(19381, 2401.1740, -1212.0245, -4.4208, 0.0000, 0.0000, 90.0000); //wall029
+SetObjectMaterial(g_Object[8], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[9] = CreateObject(19381, 2402.0014, -1214.7121, -4.4208, 0.0000, 0.0000, 0.0000); //wall029
+SetObjectMaterial(g_Object[9], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[10] = CreateObject(2959, 2386.8366, -1219.2547, -5.8498, 0.0000, 0.0000, 0.0000); //rider1_door
+SetObjectMaterial(g_Object[10], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[11] = CreateObject(11711, 2386.8276, -1218.4775, -3.0861, 0.0000, 0.0000, 90.0000); //ExitSign1
+g_Object[12] = CreateObject(2525, 2393.3041, -1218.1402, -5.8466, 0.0000, 0.0000, 0.0000); //CJ_TOILET4
+g_Object[13] = CreateObject(19377, 2392.0283, -1212.6341, -2.5494, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[13], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[14] = CreateObject(19377, 2402.5100, -1212.6241, -2.5494, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[14], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[15] = CreateObject(19377, 2399.6774, -1222.2563, -2.5494, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[15], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[16] = CreateObject(2268, 2392.0693, -1216.9305, -3.4769, 0.0000, 0.0000, 180.0000); //Frame_WOOD_2
+g_Object[17] = CreateObject(19393, 2394.5117, -1218.4851, -0.7214, 0.0000, 0.0000, 0.0000); //wall041
+SetObjectMaterial(g_Object[17], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[18] = CreateObject(19364, 2394.5837, -1220.8839, -5.3670, 0.0000, 0.0000, 0.0000); //wall012
+SetObjectMaterial(g_Object[18], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[19] = CreateObject(2390, 2401.6721, -1217.4138, -3.9012, 0.0000, 0.0000, 270.0000); //CJ_4way_clothes
+SetObjectMaterial(g_Object[19], 0, 18901, "matclothes", "bandanaskull", 0x00000000);
+g_Object[20] = CreateObject(1744, 2394.8886, -1212.0428, -4.0773, 0.0000, 0.0000, 0.0000); //MED_SHELF
+SetObjectMaterial(g_Object[20], 0, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+g_Object[21] = CreateObject(19429, 2386.7565, -1214.7043, -3.6702, 90.0000, 0.0000, 0.0000); //wall069
+SetObjectMaterial(g_Object[21], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0x00000000);
+g_Object[22] = CreateObject(2639, 2387.1647, -1214.2027, -5.2589, 0.0000, 0.0000, 270.0000); //CJ_PIZZA_CHAIR3
+SetObjectMaterial(g_Object[22], 0, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+SetObjectMaterial(g_Object[22], 1, -1, "none", "none", 0x00000000);
+g_Object[23] = CreateObject(19393, 2394.5837, -1219.0373, -4.3811, 0.0000, 0.0000, 0.0000); //wall041
+SetObjectMaterial(g_Object[23], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[24] = CreateObject(2639, 2389.0471, -1212.4715, -5.2589, 0.0000, 0.0000, 180.0000); //CJ_PIZZA_CHAIR3
+SetObjectMaterial(g_Object[24], 0, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+SetObjectMaterial(g_Object[24], 1, -1, "none", "none", 0x00000000);
+g_Object[25] = CreateObject(2639, 2391.1347, -1212.4715, -5.2589, 0.0000, 0.0000, 180.0000); //CJ_PIZZA_CHAIR3
+SetObjectMaterial(g_Object[25], 0, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+SetObjectMaterial(g_Object[25], 1, -1, "none", "none", 0x00000000);
+g_Object[26] = CreateObject(19377, 2392.0283, -1214.6944, -5.9292, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[26], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[27] = CreateObject(19377, 2392.0283, -1215.1427, 0.7505, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[27], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[28] = CreateObject(19377, 2402.5107, -1205.0649, -5.9292, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[28], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[29] = CreateObject(19377, 2402.5107, -1214.6850, -5.9292, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[29], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[30] = CreateObject(19381, 2401.2126, -1219.4454, -4.4208, 0.0000, 0.0000, 90.0000); //wall029
+SetObjectMaterial(g_Object[30], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[31] = CreateObject(19381, 2391.6096, -1219.4454, -4.4306, 0.0000, 0.0000, 90.0000); //wall029
+SetObjectMaterial(g_Object[31], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[32] = CreateObject(19381, 2386.7517, -1214.6029, -4.4208, 0.0000, 0.0000, 0.0000); //wall029
+SetObjectMaterial(g_Object[32], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[33] = CreateObject(19381, 2391.5957, -1212.1037, -4.4208, 0.0000, 0.0000, 90.0000); //wall029
+SetObjectMaterial(g_Object[33], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[34] = CreateObject(19381, 2401.1740, -1212.1046, -4.4208, 0.0000, 0.0000, 90.0000); //wall029
+SetObjectMaterial(g_Object[34], 0, 12850, "cunte_block1", "ws_redbrickold", 0xFFF5F5F5);
+g_Object[35] = CreateObject(11686, 2393.6979, -1211.8592, -5.8459, 0.0000, 0.0000, 270.0000); //CBarSection1
+SetObjectMaterial(g_Object[35], 0, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[35], 1, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[35], 2, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[35], 3, 14789, "ab_sfgymmain", "ab_wood02", 0x00000000);
+SetObjectMaterial(g_Object[35], 4, 8409, "gnhotel1", "redstuff", 0xFFFFFAFA);
+g_Object[36] = CreateObject(1209, 2398.6213, -1212.4818, -5.8730, 0.0000, 0.0000, 0.0000); //vendmach
+g_Object[37] = CreateObject(11711, 2386.8276, -1218.4775, -3.0861, 0.0000, 0.0000, 90.0000); //ExitSign1
+g_Object[38] = CreateObject(14407, 2392.6037, -1219.5915, -5.6483, 0.0000, 0.0000, 90.0000); //carter-stairs01
+SetObjectMaterial(g_Object[38], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[39] = CreateObject(19377, 2392.0283, -1212.6341, -2.5494, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[39], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[40] = CreateObject(19377, 2402.5100, -1212.6241, -2.5494, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[40], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[41] = CreateObject(19377, 2399.6774, -1222.2563, -2.5494, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[41], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[42] = CreateObject(2049, 2390.5881, -1212.2318, -3.1984, 0.0000, 0.0000, 0.0000); //CJ_TARGET1
+g_Object[43] = CreateObject(2452, 2397.5241, -1211.8641, -5.8583, 0.0000, 0.0000, 180.0000); //CJ_FF_FRIDGE2
+SetObjectMaterial(g_Object[43], 0, 1560, "7_11_door", "cj_sheetmetal2", 0x00000000);
+SetObjectMaterial(g_Object[43], 1, 1560, "7_11_door", "cj_sheetmetal2", 0x00000000);
+SetObjectMaterial(g_Object[43], 3, 1560, "7_11_door", "cj_sheetmetal2", 0x00000000);
+g_Object[44] = CreateObject(19393, 2388.3876, -1217.5238, -4.3516, 0.0000, 0.0000, 90.0000); //wall041
+SetObjectMaterial(g_Object[44], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[45] = CreateObject(2639, 2387.1647, -1212.1114, -5.2589, 0.0000, 0.0000, 270.0000); //CJ_PIZZA_CHAIR3
+SetObjectMaterial(g_Object[45], 0, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+SetObjectMaterial(g_Object[45], 1, -1, "none", "none", 0x00000000);
+g_Object[46] = CreateObject(2277, 2390.5139, -1216.9427, -3.4618, 0.0000, 0.0000, 180.0000); //Frame_Fab_2
+g_Object[47] = CreateObject(19364, 2393.0412, -1217.5278, -4.3670, 0.0000, 0.0000, 90.0000); //wall012
+SetObjectMaterial(g_Object[47], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[48] = CreateObject(19364, 2386.4147, -1217.5178, -0.9470, 0.0000, 0.0000, 90.0000); //wall012
+SetObjectMaterial(g_Object[48], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[49] = CreateObject(19364, 2389.6269, -1217.5178, -0.8669, 0.0000, 0.0000, 90.0000); //wall012
+SetObjectMaterial(g_Object[49], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[50] = CreateObject(19364, 2392.8200, -1217.5178, -0.8769, 0.0000, 0.0000, 90.0000); //wall012
+SetObjectMaterial(g_Object[50], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[51] = CreateObject(2639, 2386.9658, -1212.4715, -5.2589, 0.0000, 0.0000, 180.0000); //CJ_PIZZA_CHAIR3
+SetObjectMaterial(g_Object[51], 0, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+SetObjectMaterial(g_Object[51], 1, -1, "none", "none", 0x00000000);
+g_Object[52] = CreateObject(2121, 2391.7207, -1213.9670, -5.3642, -3.2999, 0.0000, -5.8997); //LOW_DIN_CHAIR_2
+g_Object[53] = CreateObject(2121, 2390.9521, -1214.8479, -5.3614, 0.0000, 0.0000, -98.7994); //LOW_DIN_CHAIR_2
+g_Object[54] = CreateObject(2358, 2401.3662, -1215.3697, -5.7266, 0.0000, 0.0000, 0.0000); //AMMO_BOX_c2
+g_Object[55] = CreateObject(2121, 2389.6684, -1216.1057, -5.3614, 0.0000, 0.0000, -172.3000); //LOW_DIN_CHAIR_2
+g_Object[56] = CreateObject(1770, 2389.8432, -1214.0561, -5.8534, 0.0000, 0.0000, 0.0000); //LOW_DINNING_2
+SetObjectMaterial(g_Object[56], 0, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+SetObjectMaterial(g_Object[56], 1, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+g_Object[57] = CreateObject(2452, 2396.9235, -1212.2745, -5.8583, 0.0000, 0.0000, 0.0000); //CJ_FF_FRIDGE2
+SetObjectMaterial(g_Object[57], 0, 1560, "7_11_door", "cj_sheetmetal2", 0x00000000);
+SetObjectMaterial(g_Object[57], 1, 1560, "7_11_door", "cj_sheetmetal2", 0x00000000);
+SetObjectMaterial(g_Object[57], 3, 1560, "7_11_door", "cj_sheetmetal2", 0x00000000);
+g_Object[58] = CreateObject(2916, 2401.2248, -1216.6556, -5.7989, 0.0000, 0.0000, 13.3002); //kmb_dumbbell
+SetObjectMaterial(g_Object[58], 0, 16322, "a51_stores", "metalic128", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[58], 1, 16322, "a51_stores", "metalic128", 0x00000000);
+g_Object[59] = CreateObject(2048, 2389.2299, -1212.2215, -3.0778, 0.0000, 0.0000, 0.0000); //CJ_FLAG2
+g_Object[60] = CreateObject(2051, 2391.4272, -1212.2325, -4.1532, 0.0000, 0.0000, 0.0000); //CJ_TARGET4
+g_Object[61] = CreateObject(2055, 2390.5563, -1212.2298, -4.1054, 0.0000, -0.6998, 0.0000); //CJ_TARGET5
+g_Object[62] = CreateObject(2050, 2391.2910, -1212.2280, -3.2172, 0.0000, 0.0000, 0.0000); //CJ_TARGET2
+g_Object[63] = CreateObject(1820, 2388.2641, -1214.5024, -6.2501, 0.0000, 0.0000, 0.0000); //COFFEE_LOW_4
+SetObjectMaterial(g_Object[63], 0, 14832, "lee_stripclub", "Strip_neon4", 0x00000000);
+g_Object[64] = CreateObject(1770, 2388.8532, -1216.0168, -5.8534, 0.0000, 0.0000, 90.0000); //LOW_DINNING_2
+SetObjectMaterial(g_Object[64], 0, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+SetObjectMaterial(g_Object[64], 1, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+g_Object[65] = CreateObject(2779, 2393.9291, -1217.0201, -5.8438, 0.0000, 0.0000, 180.0000); //CJ_COIN_OP_2
+g_Object[66] = CreateObject(2279, 2391.3186, -1216.9193, -3.3013, 0.0000, 0.0000, 180.0000); //Frame_Thick_6
+g_Object[67] = CreateObject(2258, 2399.2241, -1215.5404, -3.2537, 0.0000, 0.0000, 270.0000); //Frame_Clip_5
+SetObjectMaterial(g_Object[67], 0, 6985, "vgnfremnt2", "girlsneon_256", 0x00000000);
+SetObjectMaterial(g_Object[67], 1, 19297, "matlights", "invisible", 0x00000000);
+g_Object[68] = CreateObject(11712, 2392.0351, -1217.4216, -3.6275, 0.0000, 0.0000, 90.0000); //Cross1
+g_Object[69] = CreateObject(11712, 2390.5236, -1217.4216, -3.6475, 0.0000, 0.0000, 90.0000); //Cross1
+g_Object[70] = CreateObject(11712, 2391.2746, -1217.4216, -3.6075, 0.0000, 0.0000, 90.0000); //Cross1
+g_Object[71] = CreateObject(2350, 2395.3493, -1215.2364, -5.4998, 0.0000, 0.0000, 0.0000); //CJ_BARSTOOL_2
+SetObjectMaterial(g_Object[71], 1, 1355, "break_s_bins", "CJ_RED_LEATHER", 0xFFFFFFFF);
+g_Object[72] = CreateObject(2350, 2397.8027, -1215.2264, -5.4998, 0.0000, 0.0000, 0.0000); //CJ_BARSTOOL_2
+SetObjectMaterial(g_Object[72], 1, 1355, "break_s_bins", "CJ_RED_LEATHER", 0xFFFFFFFF);
+g_Object[73] = CreateObject(1543, 2397.4692, -1214.6479, -4.7638, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+SetObjectMaterial(g_Object[73], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[74] = CreateObject(2639, 2387.1647, -1216.2739, -5.2589, 0.0000, 0.0000, 270.0000); //CJ_PIZZA_CHAIR3
+SetObjectMaterial(g_Object[74], 0, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+g_Object[75] = CreateObject(2715, 2386.8310, -1218.4720, -0.6571, 0.0000, 0.3000, 270.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[75], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[76] = CreateObject(2056, 2387.9880, -1212.2126, -3.1284, 0.0000, 0.0000, 0.0000); //CJ_TARGET6
+g_Object[77] = CreateObject(1893, 2400.6684, -1216.1416, -2.6633, 0.0000, 0.0000, 90.0000); //shoplight1
+g_Object[78] = CreateObject(19812, 2401.5131, -1214.0559, -5.3473, 0.0000, 0.0000, -84.0998); //BeerKeg1
+SetObjectMaterial(g_Object[78], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[79] = CreateObject(2715, 2393.6416, -1212.2242, -3.4519, 0.0000, 0.3000, 0.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[79], 0, 12976, "sw_diner1", "SW_dinersigns", 0xFFFFFAFA);
+g_Object[80] = CreateObject(16101, 2388.7441, -1214.0185, -13.4551, 0.0000, 0.0000, 0.0000); //des_windsockpole
+SetObjectMaterial(g_Object[80], 0, 14832, "lee_stripclub", "Strip_neon4", 0x00000000);
+g_Object[81] = CreateObject(11686, 2395.6926, -1214.5676, -5.8474, 0.0000, 0.0000, 0.0000); //CBarSection1
+SetObjectMaterial(g_Object[81], 0, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[81], 1, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[81], 2, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[81], 3, 14789, "ab_sfgymmain", "ab_wood02", 0x00000000);
+SetObjectMaterial(g_Object[81], 4, 8409, "gnhotel1", "redstuff", 0xFFFFFAFA);
+g_Object[82] = CreateObject(2147, 2395.9245, -1212.4825, -5.9313, 0.0000, 0.0000, 0.0000); //CJ_KITCH1_FRIDGE
+SetObjectMaterial(g_Object[82], 0, 3629, "arprtxxref_las", "metaldoor_128", 0x00000000);
+g_Object[83] = CreateObject(1486, 2396.5817, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[84] = CreateObject(1486, 2396.6918, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[85] = CreateObject(1486, 2396.8120, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[86] = CreateObject(1486, 2396.9421, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[87] = CreateObject(1486, 2397.0922, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[88] = CreateObject(1486, 2397.2124, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[89] = CreateObject(1486, 2397.3525, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[90] = CreateObject(1486, 2397.5026, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[91] = CreateObject(1486, 2397.6428, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[92] = CreateObject(1486, 2397.7929, -1212.4571, -4.1658, 0.0000, 0.0000, 90.0000); //DYN_BEER_1
+g_Object[93] = CreateObject(1543, 2396.5803, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[94] = CreateObject(1543, 2396.7104, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[95] = CreateObject(1543, 2396.8706, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[96] = CreateObject(1543, 2397.1108, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[97] = CreateObject(1543, 2397.2509, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[98] = CreateObject(1543, 2397.4011, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[99] = CreateObject(1543, 2397.6313, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[100] = CreateObject(1543, 2397.7614, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[101] = CreateObject(1543, 2397.8916, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[102] = CreateObject(19821, 2396.0686, -1212.3220, -3.7304, 0.0000, 0.0000, 0.0000); //AlcoholBottle2
+g_Object[103] = CreateObject(19820, 2395.8518, -1212.3393, -3.7369, 0.0000, 0.0000, 0.0000); //AlcoholBottle1
+g_Object[104] = CreateObject(19820, 2395.6716, -1212.3393, -3.7369, 0.0000, 0.0000, 0.0000); //AlcoholBottle1
+g_Object[105] = CreateObject(19823, 2395.4733, -1212.3531, -3.7486, 0.0000, 0.0000, 0.0000); //AlcoholBottle4
+g_Object[106] = CreateObject(19822, 2395.3029, -1212.3448, -3.7650, 0.0000, 0.0000, 0.0000); //AlcoholBottle3
+g_Object[107] = CreateObject(19824, 2394.9516, -1212.3017, -3.7313, 0.0000, 0.0000, 0.0000); //AlcoholBottle5
+g_Object[108] = CreateObject(19820, 2395.1210, -1212.3393, -3.7369, 0.0000, 0.0000, 0.0000); //AlcoholBottle1
+g_Object[109] = CreateObject(19821, 2394.7873, -1212.3308, -3.7414, 0.0000, 0.0000, 0.0000); //AlcoholBottle2
+g_Object[110] = CreateObject(19823, 2395.0168, -1212.4586, -3.7513, 0.0000, 0.0000, 0.0000); //AlcoholBottle4
+g_Object[111] = CreateObject(19824, 2395.9541, -1212.4399, -3.7506, 0.0000, 0.0000, 0.0000); //AlcoholBottle5
+g_Object[112] = CreateObject(19822, 2394.6057, -1212.3691, -3.7411, 0.0000, 0.0000, 0.0000); //AlcoholBottle3
+g_Object[113] = CreateObject(1544, 2396.6594, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[114] = CreateObject(1544, 2396.7995, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[115] = CreateObject(1544, 2396.9597, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[116] = CreateObject(1544, 2397.0898, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[117] = CreateObject(1544, 2397.3701, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[118] = CreateObject(1544, 2397.4702, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[119] = CreateObject(1544, 2397.6003, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[120] = CreateObject(1544, 2397.7204, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[121] = CreateObject(1544, 2397.8505, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[122] = CreateObject(1544, 2397.2299, -1212.4962, -5.2946, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+g_Object[123] = CreateObject(1664, 2395.5568, -1212.4388, -3.5710, 0.0000, 0.0000, 46.3997); //propwinebotl2
+g_Object[124] = CreateObject(11706, 2392.7402, -1212.4875, -5.8435, 0.0000, 0.0000, 0.0000); //SmallWasteBin1
+SetObjectMaterial(g_Object[124], 0, -1, "none", "none", 0xFFA9A9A9);
+g_Object[125] = CreateObject(1650, 2401.6611, -1219.1075, -5.5499, 0.0000, 0.0000, 0.0000); //petrolcanm
+SetObjectMaterial(g_Object[125], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[126] = CreateObject(1517, 2394.7119, -1212.4283, -3.5408, 0.0000, 0.0000, 96.3999); //DYN_WINE_BREAK
+g_Object[127] = CreateObject(1543, 2397.5112, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[128] = CreateObject(1543, 2397.0007, -1212.4703, -4.8221, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+g_Object[129] = CreateObject(1509, 2388.8076, -1215.1590, -4.8541, 0.0000, 0.0000, 0.0000); //DYN_WINE_3
+g_Object[130] = CreateObject(1520, 2388.6975, -1215.2696, -5.0067, 0.0000, 0.0000, 32.1999); //DYN_WINE_BOUNCE
+SetObjectMaterial(g_Object[130], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[131] = CreateObject(1486, 2388.8286, -1215.3089, -5.0163, 90.0000, -61.2999, 0.0000); //DYN_BEER_1
+g_Object[132] = CreateObject(19825, 2393.8737, -1217.4018, -3.2225, 0.0000, 0.0000, 180.0000); //SprunkClock1
+SetObjectMaterial(g_Object[132], 0, 1654, "dynamite", "clock64", 0xFFFFFFFF);
+g_Object[133] = CreateObject(1113, 2392.0756, -1212.3254, -4.3793, 0.0000, 0.0000, 90.0000); //exh_lr_slv1
+SetObjectMaterial(g_Object[133], 0, -1, "none", "none", 0x00000000);
+SetObjectMaterial(g_Object[133], 1, -1, "none", "none", 0xFFFFFFFF);
+g_Object[134] = CreateObject(1893, 2395.4970, -1214.6405, -2.6633, 0.0000, 0.0000, 0.0000); //shoplight1
+g_Object[135] = CreateObject(2915, 2401.7753, -1214.8271, -2.3364, 0.0000, 0.0000, 90.0000); //kmb_dumbbell2
+SetObjectMaterial(g_Object[135], 0, 16322, "a51_stores", "metalic128", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[135], 1, 16322, "a51_stores", "metalic128", 0x00000000);
+g_Object[136] = CreateObject(2924, 2401.2714, -1219.4112, -4.6588, 0.0000, 0.0000, 0.0000); //kmb_crash3door
+SetObjectMaterial(g_Object[136], 0, 3922, "bistro", "sw_door11", 0xFFFFFAFA);
+g_Object[137] = CreateObject(11730, 2394.8520, -1216.5273, -2.4813, 0.0000, 0.0000, 90.0000); //GymLockerOpen1
+g_Object[138] = CreateObject(1893, 2393.6257, -1214.0898, -2.6633, 0.0000, 0.0000, 90.0000); //shoplight1
+g_Object[139] = CreateObject(19377, 2392.0283, -1205.0649, -5.9292, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[139], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[140] = CreateObject(19377, 2402.5280, -1215.1427, 0.7505, 0.0000, 90.0000, 0.0000); //wall025
+SetObjectMaterial(g_Object[140], 0, 18038, "vegas_munation", "mp_gun_floorred", 0x00000000);
+g_Object[141] = CreateObject(19364, 2386.4450, -1216.9670, -0.8568, 0.0000, 0.0000, 90.0000); //wall012
+SetObjectMaterial(g_Object[141], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[142] = CreateObject(2715, 2386.8310, -1215.5710, -0.6420, 0.0000, 0.3000, 270.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[142], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[143] = CreateObject(2715, 2386.8310, -1213.3896, -0.6305, 0.0000, 0.3000, 270.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[143], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[144] = CreateObject(19364, 2392.8200, -1216.9670, -0.8669, 0.0000, 0.0000, 90.0000); //wall012
+SetObjectMaterial(g_Object[144], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[145] = CreateObject(19364, 2389.6379, -1216.9670, -0.8470, 0.0000, 0.0000, 90.0000); //wall012
+SetObjectMaterial(g_Object[145], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[146] = CreateObject(2629, 2395.4245, -1213.0350, -2.4746, 0.0000, 0.0000, 0.0000); //gym_bench1
+g_Object[147] = CreateObject(2558, 2388.7539, -1217.1186, -4.9583, 0.0000, 0.0000, 180.0000); //CURTAIN_1_CLOSED
+SetObjectMaterial(g_Object[147], 1, 14481, "sweets_bit2", "ab_curtain_shwr", 0xFFA52A2A);
+g_Object[148] = CreateObject(2558, 2387.7529, -1217.9195, -4.9583, 0.0000, 0.0000, 0.0000); //CURTAIN_1_CLOSED
+SetObjectMaterial(g_Object[148], 1, 14481, "sweets_bit2", "ab_curtain_shwr", 0xFFA52A2A);
+g_Object[149] = CreateObject(331, 2388.9912, -1215.0810, -5.0862, 107.6996, 93.5000, 39.9999); //brassknuckle
+g_Object[150] = CreateObject(19364, 2394.5124, -1212.0765, -0.8470, 0.0000, 0.0000, 0.0000); //wall012
+SetObjectMaterial(g_Object[150], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[151] = CreateObject(19393, 2394.5117, -1215.2744, -0.7214, 0.0000, 0.0000, 0.0000); //wall041
+SetObjectMaterial(g_Object[151], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[152] = CreateObject(2277, 2400.6428, -1218.8691, -4.5535, 0.0000, 0.0000, 180.0000); //Frame_Fab_2
+SetObjectMaterial(g_Object[152], 0, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[152], 1, 3899, "hospital2", "fire_exit128", 0x00000000);
+g_Object[153] = CreateObject(2715, 2397.0659, -1212.1700, -0.6068, 0.0000, 0.3000, 180.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[153], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[154] = CreateObject(2715, 2389.2917, -1212.1700, -0.6477, 0.0000, 0.3000, 180.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[154], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[155] = CreateObject(11728, 2399.2934, -1214.7750, -4.2979, 0.0000, 0.0000, 270.0000); //PaperChasePhone1
+SetObjectMaterial(g_Object[155], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[156] = CreateObject(2715, 2399.6799, -1212.1800, -0.5932, 0.0000, 0.3000, 180.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[156], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[157] = CreateObject(2715, 2392.0229, -1212.1700, -0.6333, 0.0000, 0.3000, 180.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[157], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[158] = CreateObject(2913, 2397.1079, -1212.5052, -1.4959, 0.0000, 90.0000, 0.0000); //kmb_bpress
+SetObjectMaterial(g_Object[158], 0, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+g_Object[159] = CreateObject(2627, 2401.4638, -1213.2574, -2.5469, 0.0000, 0.0000, 0.0000); //gym_treadmill
+g_Object[160] = CreateObject(2630, 2399.5524, -1212.9957, -2.4725, 0.0000, 0.0000, 180.0000); //gym_bike
+g_Object[161] = CreateObject(1985, 2400.4072, -1215.9466, 0.6618, 0.0000, 0.0000, 90.0000); //punchbagnu
+g_Object[162] = CreateObject(1812, 2401.4255, -1214.3835, -5.8449, 0.0000, 0.0000, 180.0000); //LOW_BED_5
+g_Object[163] = CreateObject(2523, 2394.0209, -1212.7132, -5.8736, 0.0000, 0.0000, 0.0000); //CJ_B_SINK3
+g_Object[164] = CreateObject(2056, 2394.6945, -1216.5388, -0.9509, 0.0000, -5.0998, 90.0000); //CJ_TARGET6
+SetObjectMaterial(g_Object[164], 0, 15054, "savesfmid", "cspornmag", 0x00000000);
+g_Object[165] = CreateObject(2523, 2398.8776, -1218.8614, -2.5013, 0.0000, 0.0000, 180.0000); //CJ_B_SINK3
+g_Object[166] = CreateObject(11729, 2394.8488, -1217.1888, -2.4769, 0.0000, 0.0000, 90.0000); //GymLockerClosed1
+g_Object[167] = CreateObject(2255, 2398.7363, -1216.9005, -4.3726, 0.0000, 0.0000, 270.0000); //Frame_Clip_2
+SetObjectMaterial(g_Object[167], 0, 15054, "savesfmid", "cspornmag", 0xFFD3D3D3);
+g_Object[168] = CreateObject(2332, 2387.3044, -1212.6540, -1.9914, 0.0000, 0.0000, 90.0000); //KEV_SAFE
+SetObjectMaterial(g_Object[168], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[169] = CreateObject(16779, 2396.8740, -1217.7198, -2.5178, 0.0000, 0.0000, 0.0000); //ufo_light02
+g_Object[170] = CreateObject(2629, 2396.3947, -1219.6665, -2.4646, 0.0000, 0.0000, 0.0000); //gym_bench1
+SetObjectMaterial(g_Object[170], 0, 19297, "matlights", "invisible", 0x00000000);
+g_Object[171] = CreateObject(2913, 2394.9958, -1212.5052, -1.4959, 0.0000, 90.0000, 0.0000); //kmb_bpress
+SetObjectMaterial(g_Object[171], 0, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+g_Object[172] = CreateObject(2916, 2399.2070, -1217.9538, -2.3389, 0.0000, 0.0000, 13.3002); //kmb_dumbbell
+SetObjectMaterial(g_Object[172], 0, 16322, "a51_stores", "metalic128", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[172], 1, 16322, "a51_stores", "metalic128", 0x00000000);
+g_Object[173] = CreateObject(1520, 2390.1589, -1214.0609, -4.9903, 0.0000, 0.0000, 28.2000); //DYN_WINE_BOUNCE
+SetObjectMaterial(g_Object[173], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[174] = CreateObject(1520, 2396.5991, -1212.4974, -5.6634, 0.0000, 0.0000, 0.0000); //DYN_WINE_BOUNCE
+g_Object[175] = CreateObject(19896, 2390.0644, -1214.2091, -5.0334, 0.0000, 0.0000, 23.5000); //CigarettePack1
+SetObjectMaterial(g_Object[175], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[176] = CreateObject(1510, 2390.2578, -1214.2054, -5.0317, 0.0000, 0.0000, 0.0000); //DYN_ASHTRY
+SetObjectMaterial(g_Object[176], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[177] = CreateObject(1520, 2389.9033, -1213.8066, -4.9903, 0.0000, 0.0000, -16.0000); //DYN_WINE_BOUNCE
+SetObjectMaterial(g_Object[177], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[178] = CreateObject(1486, 2395.7575, -1214.6096, -4.6093, 0.0000, 0.0000, 105.3999); //DYN_BEER_1
+g_Object[179] = CreateObject(1510, 2388.7775, -1215.5870, -5.0317, 0.0000, 0.0000, 0.0000); //DYN_ASHTRY
+SetObjectMaterial(g_Object[179], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[180] = CreateObject(1510, 2396.6232, -1214.6661, -4.7217, 0.0000, 0.0000, 0.0000); //DYN_ASHTRY
+SetObjectMaterial(g_Object[180], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[181] = CreateObject(1510, 2393.6506, -1212.5251, -4.7217, 0.0000, 0.0000, 0.0000); //DYN_ASHTRY
+SetObjectMaterial(g_Object[181], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[182] = CreateObject(1485, 2390.4316, -1214.1595, -4.9489, 3.3998, 29.2999, -165.0000); //CJ_CIGGY
+SetObjectMaterial(g_Object[182], 0, -1, "none", "none", 0x00000000);
+g_Object[183] = CreateObject(1485, 2396.7888, -1214.7257, -4.6002, 5.1999, 37.8997, 158.4998); //CJ_CIGGY
+g_Object[184] = CreateObject(19897, 2389.9072, -1214.1014, -5.0432, 0.0000, 0.0000, -20.6000); //CigarettePack2
+SetObjectMaterial(g_Object[184], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[185] = CreateObject(19897, 2396.4755, -1214.7452, -4.7329, 0.0000, 0.0000, 29.0998); //CigarettePack2
+SetObjectMaterial(g_Object[185], 0, 19897, "cigarettepacks", "cigarettepack1", 0xFFFFFAFA);
+g_Object[186] = CreateObject(1547, 2394.3217, -1214.6728, -4.7472, 0.0000, 0.0000, 0.0000); //CJ_B_PISH_T
+SetObjectMaterial(g_Object[186], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[187] = CreateObject(1547, 2397.3742, -1214.6728, -4.7472, 0.0000, 0.0000, 0.0000); //CJ_B_PISH_T
+SetObjectMaterial(g_Object[187], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[188] = CreateObject(1547, 2395.7631, -1214.6728, -4.7472, 0.0000, 0.0000, 0.0000); //CJ_B_PISH_T
+SetObjectMaterial(g_Object[188], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[189] = CreateObject(2673, 2390.4482, -1213.8811, -5.7532, 0.0000, 0.0000, 23.3999); //PROC_RUBBISH_5
+g_Object[190] = CreateObject(2670, 2388.7060, -1215.6395, -5.7522, 0.0000, 0.0000, 37.5998); //PROC_RUBBISH_1
+SetObjectMaterial(g_Object[190], 1, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[190], 2, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[190], 3, 19297, "matlights", "invisible", 0x00000000);
+g_Object[191] = CreateObject(1543, 2395.8972, -1214.6715, -4.7486, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_2
+SetObjectMaterial(g_Object[191], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[192] = CreateObject(2670, 2396.2661, -1215.2905, -5.7522, 0.0000, 0.0000, -22.4999); //PROC_RUBBISH_1
+SetObjectMaterial(g_Object[192], 1, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[192], 2, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[192], 3, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[192], 4, 19297, "matlights", "invisible", 0x00000000);
+g_Object[193] = CreateObject(2601, 2390.4909, -1213.9803, -4.9807, 0.0000, 0.0000, 106.9000); //CJ_JUICE_CAN
+g_Object[194] = CreateObject(2047, 2396.9755, -1219.3269, -3.9827, 0.0000, 0.0000, 180.0000); //CJ_FLAG1
+SetObjectMaterial(g_Object[194], 0, 10028, "copshop_sfe", "dt_cops_US_flag", 0x00000000);
+g_Object[195] = CreateObject(2673, 2392.7363, -1217.1832, -5.7669, 0.0000, 0.0000, 146.8997); //PROC_RUBBISH_5
+g_Object[196] = CreateObject(19897, 2393.7021, -1212.7342, -4.7361, 0.0000, 0.0000, -46.9999); //CigarettePack2
+SetObjectMaterial(g_Object[196], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[197] = CreateObject(1486, 2393.8237, -1212.5920, -4.5994, 0.0000, 0.0000, 105.3999); //DYN_BEER_1
+g_Object[198] = CreateObject(1547, 2393.6110, -1213.4925, -4.7472, 0.0000, 0.0000, 270.0000); //CJ_B_PISH_T
+SetObjectMaterial(g_Object[198], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[199] = CreateObject(1544, 2393.6406, -1213.4641, -4.7648, 0.0000, 0.0000, 0.0000); //CJ_BEER_B_1
+SetObjectMaterial(g_Object[199], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[200] = CreateObject(1421, 2401.4406, -1217.6981, -5.1981, 0.0000, 0.0000, 270.0000); //DYN_BOXES
+g_Object[201] = CreateObject(1893, 2389.8256, -1214.0299, -2.6633, 0.0000, 0.0000, 0.0000); //shoplight1
+g_Object[202] = CreateObject(1431, 2400.8168, -1212.5378, -5.3056, 0.0000, 0.0000, 1.1000); //DYN_BOX_PILE
+g_Object[203] = CreateObject(2913, 2395.9577, -1219.1374, -1.4959, 0.0000, 90.0000, 0.0000); //kmb_bpress
+SetObjectMaterial(g_Object[203], 0, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+g_Object[204] = CreateObject(1893, 2388.7746, -1215.9914, -2.6633, 0.0000, 0.0000, 90.0000); //shoplight1
+g_Object[205] = CreateObject(2913, 2395.9577, -1219.0273, -2.1858, 0.0000, 90.0000, 0.0000); //kmb_bpress
+SetObjectMaterial(g_Object[205], 0, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+g_Object[206] = CreateObject(2915, 2401.7766, -1215.7982, -2.3364, 0.0000, 0.0000, 90.0000); //kmb_dumbbell2
+SetObjectMaterial(g_Object[206], 0, 16322, "a51_stores", "metalic128", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[206], 1, 16322, "a51_stores", "metalic128", 0x00000000);
+g_Object[207] = CreateObject(2915, 2401.7841, -1216.6888, -2.3364, 0.0000, 0.0000, 90.0000); //kmb_dumbbell2
+SetObjectMaterial(g_Object[207], 0, 16322, "a51_stores", "metalic128", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[207], 1, 16322, "a51_stores", "metalic128", 0x00000000);
+g_Object[208] = CreateObject(1486, 2401.4011, -1217.1416, -5.0219, 0.0000, 0.0000, -63.7000); //DYN_BEER_1
+g_Object[209] = CreateObject(19555, 2394.8200, -1216.3214, -2.2362, -76.9001, -172.9998, -90.5998); //BoxingGloveL
+g_Object[210] = CreateObject(336, 2394.8842, -1216.8122, -1.6088, 7.1999, -174.8999, 1.1000); //bat
+g_Object[211] = CreateObject(18952, 2394.9479, -1216.6899, -2.1781, 0.0000, 270.0000, -68.8000); //BoxingHelmet1
+g_Object[212] = CreateObject(2276, 2389.3361, -1212.6875, -4.1732, 0.0000, 0.0000, 0.0000); //Frame_Fab_3
+g_Object[213] = CreateObject(2278, 2391.3044, -1216.9265, -4.4955, 0.0000, 0.0000, 180.0000); //Frame_Thick_2
+g_Object[214] = CreateObject(11737, 2387.3234, -1218.4681, -5.8397, 0.0000, 0.0000, 270.0000); //RockstarMat1
+g_Object[215] = CreateObject(19812, 2394.0349, -1212.5611, -1.9867, 0.0000, 0.0000, -75.6996); //BeerKeg1
+SetObjectMaterial(g_Object[215], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[216] = CreateObject(2714, 2394.4204, -1212.2103, -4.4534, 0.0000, 0.0000, 0.0000); //CJ_OPEN_SIGN_2
+g_Object[217] = CreateObject(1541, 2394.5290, -1214.2037, -4.6627, 0.0000, 0.0000, 0.0000); //CJ_BEER_TAPS_1
+g_Object[218] = CreateObject(1541, 2396.9614, -1214.2037, -4.6627, 0.0000, 0.0000, 0.0000); //CJ_BEER_TAPS_1
+g_Object[219] = CreateObject(2231, 2386.6552, -1217.3033, -3.5759, 0.0000, 0.0000, 139.5997); //SWANK_SPEAKER_3
+SetObjectMaterial(g_Object[219], 3, 11631, "mp_ranchcut", "mpCJ_SPEAKER4", 0x00000000);
+g_Object[220] = CreateObject(2121, 2387.8737, -1214.6296, -1.9699, 0.0000, 0.0000, 91.6996); //LOW_DIN_CHAIR_2
+g_Object[221] = CreateObject(2007, 2387.4611, -1216.3697, -2.4804, 0.0000, 0.0000, 180.0000); //filing_cab_nu01
+SetObjectMaterial(g_Object[221], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[222] = CreateObject(11691, 2390.4050, -1214.5893, -2.4818, 0.0000, 0.0000, 0.0000); //CTable2
+SetObjectMaterial(g_Object[222], 1, 1355, "break_s_bins", "CJ_WOOD_DARK", 0x00000000);
+SetObjectMaterial(g_Object[222], 2, 11631, "mp_ranchcut", "mpCJ_WOOD_DARK", 0x00000000);
+SetObjectMaterial(g_Object[222], 3, 8409, "gnhotel1", "redstuff", 0x00000000);
+g_Object[223] = CreateObject(2121, 2392.9235, -1214.5371, -1.9699, 0.0000, 0.0000, -89.0995); //LOW_DIN_CHAIR_2
+g_Object[224] = CreateObject(2121, 2389.6701, -1212.7475, -1.9699, 0.0000, 0.0000, 8.4996); //LOW_DIN_CHAIR_2
+g_Object[225] = CreateObject(2121, 2391.1833, -1212.6490, -1.9699, 0.0000, 0.0000, -5.0000); //LOW_DIN_CHAIR_2
+g_Object[226] = CreateObject(2121, 2391.0805, -1216.4770, -1.9699, 0.0000, 0.0000, -172.6000); //LOW_DIN_CHAIR_2
+g_Object[227] = CreateObject(2121, 2389.6091, -1216.4658, -1.9766, -0.9998, 0.0000, -179.5000); //LOW_DIN_CHAIR_2
+g_Object[228] = CreateObject(2358, 2401.3361, -1215.7801, -5.7266, 0.0000, 0.0000, 0.0000); //AMMO_BOX_c2
+g_Object[229] = CreateObject(19812, 2394.0605, -1213.2707, -1.9867, 0.0000, 0.0000, -99.3000); //BeerKeg1
+SetObjectMaterial(g_Object[229], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[230] = CreateObject(18608, 2390.4780, -1207.1761, 1.0678, 0.0000, 0.0000, 0.0000); //countS_lights01
+g_Object[231] = CreateObject(2047, 2388.3044, -1216.8542, -0.3510, 0.0000, 0.0000, 180.0000); //CJ_FLAG1
+SetObjectMaterial(g_Object[231], 0, 2047, "cj_ammo_posters", "CJ_TARGET3", 0x00000000);
+g_Object[232] = CreateObject(19812, 2394.0788, -1212.8164, -0.9865, 0.0000, 0.0000, -88.0998); //BeerKeg1
+SetObjectMaterial(g_Object[232], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[233] = CreateObject(2121, 2394.1093, -1213.5249, -1.4284, 180.0000, -0.3000, 6.3000); //LOW_DIN_CHAIR_2
+g_Object[234] = CreateObject(2631, 2390.3730, -1214.6057, -2.5125, 0.0000, 0.0000, 0.0000); //gym_mat1
+SetObjectMaterial(g_Object[234], 0, 19595, "lsappartments1", "carpet4-256x256", 0xFFFFFAFA);
+g_Object[235] = CreateObject(1081, 2392.4243, -1212.2219, -3.3141, 0.0000, 0.0000, 270.0000); //wheel_sr4
+g_Object[236] = CreateObject(2047, 2393.0991, -1216.8542, -0.3510, 0.0000, 0.0000, 180.0000); //CJ_FLAG1
+g_Object[237] = CreateObject(1791, 2387.3269, -1216.7883, -1.0736, 0.0000, 0.0000, 171.0001); //SWANK_TV_2
+SetObjectMaterial(g_Object[237], 2, 16640, "a51", "a51_monitors", 0x00000000);
+g_Object[238] = CreateObject(2649, 2396.0830, -1219.5384, -2.9681, 180.0000, 0.0000, 360.0000); //CJ_aircon2
+SetObjectMaterial(g_Object[238], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[239] = CreateObject(2968, 2401.2783, -1216.2712, -5.7533, 0.0000, 0.0000, 0.0000); //cm_box
+SetObjectMaterial(g_Object[239], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[240] = CreateObject(2649, 2399.7062, -1219.5212, 0.6607, 180.0000, 0.0000, 360.0000); //CJ_aircon2
+SetObjectMaterial(g_Object[240], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[241] = CreateObject(2649, 2397.6943, -1219.5212, -0.9789, 0.0000, 270.0000, 360.0000); //CJ_aircon2
+SetObjectMaterial(g_Object[241], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[242] = CreateObject(1808, 2395.1630, -1212.4012, -5.8818, 0.0000, 0.0000, 0.0000); //CJ_WATERCOOLER2
+SetObjectMaterial(g_Object[242], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[243] = CreateObject(2255, 2387.7590, -1212.6717, -4.3291, 0.0000, 0.0000, 0.0000); //Frame_Clip_2
+SetObjectMaterial(g_Object[243], 0, 2047, "cj_ammo_posters", "cj_flag1", 0x00000000);
+g_Object[244] = CreateObject(2261, 2398.7321, -1215.6435, -4.7252, 0.0000, 0.0000, 270.0000); //Frame_SLIM_2
+SetObjectMaterial(g_Object[244], 0, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[244], 1, 11389, "hubint1_sfse", "ws_STDcalendar", 0x00000000);
+g_Object[245] = CreateObject(2259, 2398.7607, -1218.2099, -4.5029, 0.0000, 0.0000, 270.0000); //Frame_Clip_6
+SetObjectMaterial(g_Object[245], 1, 2577, "cj_sex", "CJ_PAINTING9", 0x00000000);
+g_Object[246] = CreateObject(2852, 2388.8703, -1215.9267, -5.0486, 0.0000, 0.0000, -119.2994); //gb_bedmags02
+SetObjectMaterial(g_Object[246], 0, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[246], 1, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[246], 2, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[246], 3, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[246], 4, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[246], 5, -1, "none", "none", 0xFFFFFAFA);
+g_Object[247] = CreateObject(19812, 2401.5695, -1213.3691, -5.3473, 0.0000, 0.0000, -39.9999); //BeerKeg1
+SetObjectMaterial(g_Object[247], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[248] = CreateObject(19393, 2399.3242, -1213.5737, -4.2312, 0.0000, 0.0000, 0.0000); //wall041
+SetObjectMaterial(g_Object[248], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[249] = CreateObject(19364, 2399.3249, -1216.7783, -4.3670, 0.0000, 0.0000, 0.0000); //wall012
+SetObjectMaterial(g_Object[249], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[250] = CreateObject(19364, 2399.3249, -1219.9814, -4.3670, 0.0000, 0.0000, 0.0000); //wall012
+SetObjectMaterial(g_Object[250], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[251] = CreateObject(19812, 2401.5190, -1213.6479, -4.3372, 0.0000, 0.0000, -70.2994); //BeerKeg1
+SetObjectMaterial(g_Object[251], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[252] = CreateObject(2629, 2397.5566, -1213.0350, -2.4746, 0.0000, 0.0000, 0.0000); //gym_bench1
+g_Object[253] = CreateObject(2916, 2399.8547, -1217.8685, -2.3389, 0.0000, 0.0000, -6.4997); //kmb_dumbbell
+SetObjectMaterial(g_Object[253], 0, 16322, "a51_stores", "metalic128", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[253], 1, 16322, "a51_stores", "metalic128", 0x00000000);
+g_Object[254] = CreateObject(19942, 2387.8322, -1216.7280, -0.9710, 0.0000, 0.0000, 137.6999); //PoliceRadio1
+SetObjectMaterial(g_Object[254], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[255] = CreateObject(2628, 2401.2531, -1218.3968, -2.4662, 0.0000, 0.0000, 180.0000); //gym_bench2
+g_Object[256] = CreateObject(2628, 2399.5515, -1218.3968, -2.4662, 0.0000, 0.0000, 180.0000); //gym_bench2
+g_Object[257] = CreateObject(2372, 2399.8740, -1216.7552, -5.8579, 0.0000, 0.0000, 0.0000); //CLOTHES_RAIL2
+SetObjectMaterial(g_Object[257], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[258] = CreateObject(2047, 2390.6967, -1216.8542, -0.3510, 0.0000, 0.0000, 180.0000); //CJ_FLAG1
+SetObjectMaterial(g_Object[258], 0, 10028, "copshop_sfe", "dt_cops_US_flag", 0x00000000);
+g_Object[259] = CreateObject(2394, 2399.6701, -1216.1489, -5.2164, 0.0000, 0.0000, 90.0000); //CJ_CLOTHES_STEP_1
+SetObjectMaterial(g_Object[259], 0, 18901, "matclothes", "skullyblk", 0x00000000);
+SetObjectMaterial(g_Object[259], 1, 2127, "cj_kitchen", "CJ_RED", 0x00000000);
+SetObjectMaterial(g_Object[259], 2, 2127, "cj_kitchen", "CJ_RED", 0x00000000);
+g_Object[260] = CreateObject(19638, 2400.4655, -1212.5268, -4.7438, 0.0000, 0.0000, 96.4999); //OrangesCrate1
+g_Object[261] = CreateObject(2390, 2401.6721, -1218.1042, -3.9012, 0.0000, 0.0000, 270.0000); //CJ_4way_clothes
+SetObjectMaterial(g_Object[261], 0, 18901, "matclothes", "zorromask", 0x00000000);
+g_Object[262] = CreateObject(2390, 2401.6721, -1218.7751, -3.9012, 0.0000, 0.0000, 270.0000); //CJ_4way_clothes
+SetObjectMaterial(g_Object[262], 0, 14780, "lring_gmint3", "crash_pad_red", 0x00000000);
+g_Object[263] = CreateObject(19622, 2399.5224, -1219.2685, -5.1715, 11.8999, 0.0000, -44.5000); //Broom1
+SetObjectMaterial(g_Object[263], 0, -1, "none", "none", 0xFFDCDCDC);
+g_Object[264] = CreateObject(2713, 2399.5747, -1218.7126, -5.6998, 0.0000, 0.0000, 89.6996); //cj_bucket
+g_Object[265] = CreateObject(19572, 2399.5979, -1212.4621, -5.8221, 0.0000, 0.0000, 92.7994); //PisshBox1
+g_Object[266] = CreateObject(19637, 2401.3244, -1212.5196, -4.7543, 0.0000, 0.0000, 89.9999); //GreenApplesCrate1
+g_Object[267] = CreateObject(19636, 2400.8398, -1212.4952, -4.5876, 0.0000, 0.0000, 90.3999); //RedApplesCrate1
+g_Object[268] = CreateObject(11712, 2391.3244, -1217.4216, -4.8474, 0.0000, 0.0000, 90.0000); //Cross1
+g_Object[269] = CreateObject(19572, 2399.5979, -1212.4919, -5.4923, 0.0000, 0.0000, 90.5998); //PisshBox1
+g_Object[270] = CreateObject(19572, 2399.5979, -1212.4919, -5.1623, 0.0000, 0.0000, 94.6996); //PisshBox1
+g_Object[271] = CreateObject(19572, 2399.5993, -1212.5118, -4.8421, 0.0000, 0.0000, 90.8000); //PisshBox1
+g_Object[272] = CreateObject(924, 2401.4045, -1214.7998, -5.6644, 0.0000, 0.0000, 3.0999); //FRUITCRATE3
+g_Object[273] = CreateObject(2231, 2386.9941, -1211.9862, -3.5759, 0.0000, 0.0000, 43.7998); //SWANK_SPEAKER_3
+SetObjectMaterial(g_Object[273], 3, 11631, "mp_ranchcut", "mpCJ_SPEAKER4", 0x00000000);
+g_Object[274] = CreateObject(1893, 2398.4062, -1216.4519, 0.6366, 0.0000, 0.0000, 90.0000); //shoplight1
+g_Object[275] = CreateObject(2924, 2400.9890, -1203.9896, 29.1511, 0.0000, 0.0000, 0.0000); //kmb_crash3door
+SetObjectMaterial(g_Object[275], 0, 3922, "bistro", "sw_door11", 0xFFFFFAFA);
+g_Object[276] = CreateObject(18766, 2400.5578, -1203.8719, 27.4839, 90.0000, 0.0000, 0.0000); //Concrete10mx1mx5m
+SetObjectMaterial(g_Object[276], 0, 18996, "mattextures", "concrete12", 0x00000000);
+g_Object[277] = CreateObject(2715, 2400.7309, -1219.3310, -0.5878, 0.0000, 0.3000, 180.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[277], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[278] = CreateObject(2715, 2395.9748, -1219.3205, -0.6128, 0.0000, 0.3000, 180.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[278], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[279] = CreateObject(2715, 2398.4047, -1219.3314, -0.6000, 0.0000, 0.3000, 180.0000); //CJ_DON_POSTER
+SetObjectMaterial(g_Object[279], 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFAFA);
+g_Object[280] = CreateObject(19555, 2394.8002, -1216.4709, -2.2404, -76.9001, -172.9998, -90.5998); //BoxingGloveL
+g_Object[281] = CreateObject(2852, 2401.4648, -1214.9715, -5.3786, 0.0000, 0.0000, -143.7996); //gb_bedmags02
+SetObjectMaterial(g_Object[281], 0, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[281], 1, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[281], 2, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[281], 3, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[281], 4, -1, "none", "none", 0xFFFFFAFA);
+SetObjectMaterial(g_Object[281], 5, -1, "none", "none", 0xFFFFFAFA);
+g_Object[282] = CreateObject(2350, 2401.5939, -1218.8077, -5.4998, 0.0000, 0.0000, 0.0000); //CJ_BARSTOOL_2
+SetObjectMaterial(g_Object[282], 1, 1355, "break_s_bins", "CJ_RED_LEATHER", 0xFFFFFFFF);
+g_Object[283] = CreateObject(19572, 2399.9821, -1212.5262, -5.3021, 0.0000, 0.0000, 96.7994); //PisshBox1
+SetObjectMaterial(g_Object[283], 0, 1340, "foodkarts", "chillidog_sign", 0x00000000);
+g_Object[284] = CreateObject(19572, 2401.5253, -1214.1545, -4.8421, 0.0000, 0.0000, 0.4999); //PisshBox1
+SetObjectMaterial(g_Object[284], 0, 1340, "foodkarts", "chillidog_sign", 0x00000000);
+g_Object[285] = CreateObject(19572, 2401.5253, -1214.1545, -4.5219, 0.0000, 0.0000, 8.7999); //PisshBox1
+SetObjectMaterial(g_Object[285], 0, 1340, "foodkarts", "chillidog_sign", 0x00000000);
+g_Object[286] = CreateObject(11738, 2401.6608, -1217.1378, -5.1248, 0.0000, 0.0000, 36.4999); //MedicCase1
+SetObjectMaterial(g_Object[286], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[287] = CreateObject(2350, 2401.2829, -1218.3376, -4.8295, 0.0000, 0.0000, 0.0000); //CJ_BARSTOOL_2
+SetObjectMaterial(g_Object[287], 1, 1355, "break_s_bins", "CJ_RED_LEATHER", 0xFFFFFFFF);
+g_Object[288] = CreateObject(19364, 2392.4804, -1219.1999, -5.7870, 0.0000, 0.0000, 0.0000); //wall012
+SetObjectMaterial(g_Object[288], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[289] = CreateObject(19364, 2393.1796, -1219.0604, -3.6914, 0.0000, 55.0000, 0.0000); //wall012
+SetObjectMaterial(g_Object[289], 0, 12850, "cunte_block1", "ws_redbrickold", 0x00000000);
+g_Object[290] = CreateObject(2911, 2394.6293, -1219.2585, -5.8425, 0.0000, 0.0000, -175.1006); //kmb_petroldoor
+SetObjectMaterial(g_Object[290], 0, 14666, "genintintsex", "backdoor_128", 0x00000000);
+g_Object[291] = CreateObject(2524, 2393.6005, -1218.1097, -5.8466, 0.0000, 0.0000, 0.0000); //CJ_B_SINK4
+g_Object[292] = CreateObject(2277, 2394.0969, -1218.1146, -4.5229, 0.0000, -2.2999, 0.0000); //Frame_Fab_2
+SetObjectMaterial(g_Object[292], 1, 18889, "forcefields", "glass1", 0x00000000);
+g_Object[293] = CreateObject(2670, 2392.8898, -1219.0483, -5.7522, 0.0000, 0.0000, 67.5998); //PROC_RUBBISH_1
+SetObjectMaterial(g_Object[293], 1, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[293], 2, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[293], 3, 19297, "matlights", "invisible", 0x00000000);
+g_Object[294] = CreateObject(2601, 2389.7668, -1213.9477, -4.9706, 0.0000, 0.0000, 0.0000); //CJ_JUICE_CAN
+g_Object[295] = CreateObject(11727, 2398.8837, -1203.9968, 29.6434, 0.0000, 0.0000, 0.0000); //PaperChaseLight1
+g_Object[296] = CreateObject(2055, 2393.2700, -1218.5804, -3.7558, 55.0000, 0.0000, 90.0000); //CJ_TARGET5
+SetObjectMaterial(g_Object[296], 0, 9909, "sfvictorian", "steepsign2_SF", 0x00000000);
+g_Object[297] = CreateObject(1520, 2396.7592, -1212.4974, -5.6634, 0.0000, 0.0000, 0.0000); //DYN_WINE_BOUNCE
+g_Object[298] = CreateObject(2855, 2392.8203, -1217.9166, -5.8376, 0.0000, 0.0000, 0.0000); //gb_bedmags05
+SetObjectMaterial(g_Object[298], 4, 2577, "cj_sex", "CJ_PORNO_VIDS2", 0x00000000);
+g_Object[299] = CreateObject(1520, 2396.9294, -1212.4974, -5.6634, 0.0000, 0.0000, 0.0000); //DYN_WINE_BOUNCE
+g_Object[300] = CreateObject(1520, 2397.0996, -1212.4974, -5.6634, 0.0000, 0.0000, 0.0000); //DYN_WINE_BOUNCE
+g_Object[301] = CreateObject(1520, 2397.2497, -1212.4974, -5.6634, 0.0000, 0.0000, 0.0000); //DYN_WINE_BOUNCE
+g_Object[302] = CreateObject(1520, 2397.3999, -1212.4974, -5.6634, 0.0000, 0.0000, 0.0000); //DYN_WINE_BOUNCE
+g_Object[303] = CreateObject(1520, 2397.5500, -1212.4974, -5.6634, 0.0000, 0.0000, 0.0000); //DYN_WINE_BOUNCE
+g_Object[304] = CreateObject(1520, 2397.6801, -1212.4974, -5.6634, 0.0000, 0.0000, 0.0000); //DYN_WINE_BOUNCE
+g_Object[305] = CreateObject(1520, 2397.8103, -1212.4974, -5.6634, 0.0000, 0.0000, 0.0000); //DYN_WINE_BOUNCE
+g_Object[306] = CreateObject(1455, 2394.4384, -1214.7082, -4.6746, 0.0000, 0.0000, 0.0000); //DYN_GLASS
+SetObjectMaterial(g_Object[306], 0, 2221, "donut_tray", "cupside_rb", 0xFFFFFAFA);
+g_Object[307] = CreateObject(1666, 2393.6162, -1213.5677, -4.6696, 0.0000, 0.0000, 0.0000); //propbeerglass1
+g_Object[308] = CreateObject(1666, 2396.0087, -1214.7087, -4.6696, 0.0000, 0.0000, 0.0000); //propbeerglass1
+g_Object[309] = CreateObject(1455, 2390.3144, -1213.8774, -4.9846, 0.0000, 0.0000, 0.0000); //DYN_GLASS
+SetObjectMaterial(g_Object[309], 0, 2221, "donut_tray", "cupside_rb", 0xFFFFFAFA);
+g_Object[310] = CreateObject(1650, 2401.6611, -1219.2677, -5.5499, 0.0000, 0.0000, 0.0000); //petrolcanm
+SetObjectMaterial(g_Object[310], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[311] = CreateObject(2601, 2388.6757, -1215.1080, -4.9706, 0.0000, 0.0000, 0.0000); //CJ_JUICE_CAN
+g_Object[312] = CreateObject(2601, 2388.5656, -1215.2081, -4.9706, 0.0000, 0.0000, 0.0000); //CJ_JUICE_CAN
+g_Object[313] = CreateObject(2601, 2394.3166, -1214.6728, -4.6606, 0.0000, 0.0000, 129.9998); //CJ_JUICE_CAN
+SetObjectMaterial(g_Object[313], 0, 14802, "lee_bdupsflat", "mp_sprunk2dirty", 0x00000000);
+g_Object[314] = CreateObject(2601, 2397.3342, -1214.6976, -4.6606, 0.0000, 0.0000, 103.2994); //CJ_JUICE_CAN
+SetObjectMaterial(g_Object[314], 0, 14802, "lee_bdupsflat", "mp_sprunk2dirty", 0x00000000);
+g_Object[315] = CreateObject(19573, 2401.6027, -1218.7956, -5.8519, 0.0000, 0.0000, 0.0000); //BriquettesBag1
+g_Object[316] = CreateObject(1439, 2397.1655, -1204.4211, 28.0673, 0.0000, 0.0000, 0.0000); //DYN_DUMPSTER_1
+g_Object[317] = CreateObject(19862, 2398.2478, -1206.3028, 30.4461, 0.0000, 0.0000, 0.0000); //MIHouse1GarageDoor2
+SetObjectMaterial(g_Object[317], 0, 13659, "8bars", "Upt_Fence_Mesh", 0x00000000);
+g_Object[318] = CreateObject(19862, 2395.6052, -1203.6739, 30.4461, 0.0000, 0.0000, 90.0000); //MIHouse1GarageDoor2
+SetObjectMaterial(g_Object[318], 0, 13659, "8bars", "Upt_Fence_Mesh", 0x00000000);
+g_Object[319] = CreateObject(2673, 2398.0180, -1204.6571, 28.0865, 0.0000, 0.0000, 0.0000); //PROC_RUBBISH_5
+g_Object[320] = CreateObject(19862, 2402.5393, -1206.3028, 30.4461, 0.0000, 0.0000, 0.0000); //MIHouse1GarageDoor2
+SetObjectMaterial(g_Object[320], 0, 13659, "8bars", "Upt_Fence_Mesh", 0x00000000);
+g_Object[321] = CreateObject(2690, 2394.1784, -1212.3342, -5.4867, 0.0000, 0.0000, 0.0000); //CJ_FIRE_EXT
+SetObjectMaterial(g_Object[321], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[322] = CreateObject(1264, 2397.6225, -1204.5655, 29.1791, 0.0000, 0.0000, -75.8999); //BlackBag1
+g_Object[323] = CreateObject(1265, 2397.0109, -1204.6402, 29.3008, 0.0000, 0.0000, 171.1000); //BlackBag2
+g_Object[324] = CreateObject(2277, 2400.3625, -1204.5194, 29.3365, 0.0000, 0.0000, 0.0000); //Frame_Fab_2
+SetObjectMaterial(g_Object[324], 0, 19297, "matlights", "invisible", 0x00000000);
+SetObjectMaterial(g_Object[324], 1, 3899, "hospital2", "fire_exit128", 0x00000000);
+g_Object[325] = CreateObject(1616, 2387.0375, -1219.1860, -2.1837, -15.0000, -24.6000, -113.7994); //nt_securecam1_01
+SetObjectMaterial(g_Object[325], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[326] = CreateObject(2685, 2394.4641, -1217.9326, -4.3275, 0.0000, 0.0000, 270.0000); //CJ_food_post1
+SetObjectMaterial(g_Object[326], 0, -1, "none", "none", 0xFFFFFAFA);
+g_Object[327] = CreateObject(11707, 2392.6477, -1218.4962, -4.7055, 0.0000, 0.0000, 90.0000); //TowelRack1
+SetObjectMaterial(g_Object[327], 0, -1, "none", "none", 0xFFFFFFFF);
+g_Object[328] = CreateObject(1010, 2392.3879, -1212.1932, -4.0521, 90.0000, 90.0000, 270.0000); //nto_b_tw
+SetObjectMaterial(g_Object[328], 0, -1, "none", "none", 0x00000000);
+g_Object[329] = CreateObject(1114, 2392.4755, -1212.1733, -4.5959, 0.0000, 0.0000, 90.0000); //exh_lr_slv2
+SetObjectMaterial(g_Object[329], 1, -1, "none", "none", 0xFFFFFFFF);
+g_Object[330] = CreateObject(2700, 2398.8593, -1212.5356, -3.1858, -0.2998, 9.3999, -133.0000); //CJ_SEX_TV2

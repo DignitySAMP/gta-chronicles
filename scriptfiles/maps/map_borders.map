@@ -1,0 +1,19 @@
+new g_Object[13];
+g_Object[0] = CreateObject(16003, 609.5999, 356.8854, 19.3498, 0.0000, 0.0000, -55.0998, 200.0000); //drvin_ticket
+g_Object[1] = CreateObject(16003, 598.7849, 349.3405, 19.3498, 0.0000, 0.0000, -55.0998, 200.0000); //drvin_ticket
+g_Object[2] = CreateObject(16003, -202.1325, 263.4269, 12.4630, 0.0000, 0.0000, 74.9000, 200.0000); //drvin_ticket
+g_Object[3] = CreateObject(3578, 603.9953, 353.3843, 17.9528, 0.0000, 0.0000, -54.9000, 200.0000); //DockBarr1_LA
+SetObjectMaterial(g_Object[3], 0, 9623, "toll_sfw", "toll_SFw3", 0xFFFFFFFF);
+g_Object[4] = CreateObject(16003, -189.4463, 260.0039, 12.4630, 0.0000, 0.0000, 74.9000, 200.0000); //drvin_ticket
+g_Object[5] = CreateObject(8168, 48.7205, -1531.0426, 6.0587, 0.0000, 0.0000, 7.8997, 200.0000); //Vgs_guardhouse01
+g_Object[6] = CreateObject(19966, 35.5605, -1529.4277, 4.3737, 0.0000, 0.0000, -99.0000, 100.0000); //SAMPRoadSign19
+g_Object[7] = CreateObject(3578, -195.8231, 261.7597, 11.1463, 0.0000, 0.0000, 75.5998, 200.0000); //DockBarr1_LA
+SetObjectMaterial(g_Object[7], 0, 9623, "toll_sfw", "toll_SFw3", 0xFFFFFFFF);
+g_Object[8] = CreateObject(19966, 65.7406, -1533.5294, 4.3137, 0.0000, 0.0000, 83.8000, 100.0000); //SAMPRoadSign19
+g_Object[9] = CreateObject(3578, 58.9141, -1532.4768, 4.1132, 0.0000, 0.7997, -9.0000, 200.0000); //DockBarr1_LA
+SetObjectMaterial(g_Object[9], 0, 9623, "toll_sfw", "toll_SFw3", 0xFFFFFFFF);
+g_Object[10] = CreateObject(19428, 52.6142, -1528.4117, 3.7307, 0.0000, 0.0000, -7.9998, 100.0000); //wall068
+SetObjectMaterial(g_Object[10], 0, 982, "bar_chainlink", "awirex2", 0xFFFFFFFF);
+g_Object[11] = CreateObject(19428, 51.6305, -1534.7119, 3.7307, 0.0000, 0.0000, -7.7999, 100.0000); //wall068
+SetObjectMaterial(g_Object[11], 0, 982, "bar_chainlink", "awirex2", 0xFFFFFFFF);
+g_Object[12] = CreateObject(9623, 1708.4427, 435.3139, 32.7448, 0.7997, 0.0000, -19.2000, 500.0000); //toll_SFW

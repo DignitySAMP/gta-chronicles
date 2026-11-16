@@ -1,0 +1,5 @@
+#include "police/cmds/cuffs.pwn"
+#include "police/cmds/detain.pwn"
+#include "police/cmds/radio.pwn"
+#include "police/cmds/misc.pwn"
+#include "police/cmds/frisk.pwn"

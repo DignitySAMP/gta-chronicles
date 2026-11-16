@@ -1,0 +1,56 @@
+new g_Object[35];
+g_Object[0] = CreateObject(3802, 814.0744, -1583.9559, 16.0933, 0.0000, 0.0000, -112.0000, 100.0000); //sfx_plant03
+g_Object[1] = CreateObject(3802, 817.8391, -1585.4228, 16.0933, 0.0000, 0.0000, -112.0000, 100.0000); //sfx_plant03
+g_Object[2] = CreateObject(3802, 809.7345, -1582.2551, 16.0933, 0.0000, 0.0000, -112.0000, 100.0000); //sfx_plant03
+g_Object[3] = CreateObject(3802, 805.9717, -1580.8105, 16.0933, 0.0000, 0.0000, -112.0000, 100.0000); //sfx_plant03
+g_Object[4] = CreateObject(3802, 801.3959, -1579.0258, 16.0933, 0.0000, 0.0000, -112.0000, 100.0000); //sfx_plant03
+g_Object[5] = CreateObject(19353, 816.3107, -1583.4554, 14.0673, 0.0000, 0.0000, -112.0000, 150.0000); //wall001
+SetObjectMaterial(g_Object[5], 0, 16640, "a51", "concretemanky", 0xFF9F9D94);
+g_Object[6] = CreateObject(11714, 816.4454, -1583.6157, 13.7967, 0.0000, 0.0000, -112.0000, 150.0000); //MaintenanceDoors1
+SetObjectMaterial(g_Object[6], 0, 3820, "boxhses_sfsx", "ws_wood_doors2", 0xFFFFFFFF);
+g_Object[7] = CreateObject(19353, 817.1954, -1583.8022, 14.0673, 0.0000, 0.0000, -112.0000, 150.0000); //wall001
+SetObjectMaterial(g_Object[7], 0, 16640, "a51", "concretemanky", 0xFF9F9D94);
+g_Object[8] = CreateObject(2660, 814.1170, -1583.8582, 13.0366, -17.3999, 0.0000, -20.0000, 25.0000); //CJ_BANNER06
+SetObjectMaterialText(g_Object[8], "STALLION", 0, 90, "Georgia", 24, 1, 0xFF99991E, 0x0, 1);
+g_Object[9] = CreateObject(2363, 814.4266, -1583.5747, 12.5328, 0.0000, 0.0000, -20.0000, 100.0000); //CJ_SHOP_SIGN_1
+SetObjectMaterial(g_Object[9], 0, 3902, "libertyhi3", "marcos02_128", 0xFFFFFFFF);
+g_Object[10] = CreateObject(2660, 814.1465, -1583.7764, 13.3133, -17.3999, 0.0000, -20.0000, 25.0000); //CJ_BANNER06
+SetObjectMaterialText(g_Object[10], "THE", 0, 90, "Georgia", 24, 1, 0xFF99991E, 0x0, 1);
+g_Object[11] = CreateObject(2660, 814.1184, -1583.8236, 13.1415, -17.3999, 0.0000, -20.0000, 25.0000); //CJ_BANNER06
+SetObjectMaterialText(g_Object[11], "STAGGERING", 0, 90, "Georgia", 24, 1, 0xFF99991E, 0x0, 1);
+g_Object[12] = CreateObject(1656, 819.0798, -1585.0880, 14.7419, 0.0000, 90.0000, -112.0000, 150.0000); //Esc_step
+SetObjectMaterial(g_Object[12], 0, 5154, "dkcargoshp_las2", "green_64", 0xFFFFFFFF);
+g_Object[13] = CreateObject(1656, 819.4600, -1585.2406, 14.7419, 0.0000, 90.0000, -112.0000, 150.0000); //Esc_step
+SetObjectMaterial(g_Object[13], 0, 10765, "airportgnd_sfse", "ws_whiteplaster_top", 0xFFFFFFFF);
+g_Object[14] = CreateObject(1656, 818.6994, -1584.9345, 14.7419, 0.0000, 90.0000, -112.0000, 150.0000); //Esc_step
+SetObjectMaterial(g_Object[14], 0, 5154, "dkcargoshp_las2", "green_64", 0xFFFFFFFF);
+g_Object[15] = CreateObject(2714, 819.5816, -1585.4812, 14.7491, 0.0000, 0.0000, -21.7000, 150.0000); //CJ_OPEN_SIGN_2
+g_Object[16] = CreateObject(1656, 820.2108, -1585.5443, 14.7419, 0.0000, 90.0000, -112.0000, 150.0000); //Esc_step
+SetObjectMaterial(g_Object[16], 0, 16640, "a51", "redmetal", 0xFFFFFFFF);
+g_Object[17] = CreateObject(1656, 820.5911, -1585.6977, 14.7419, 0.0000, 90.0000, -112.0000, 150.0000); //Esc_step
+SetObjectMaterial(g_Object[17], 0, 16640, "a51", "redmetal", 0xFFFFFFFF);
+g_Object[18] = CreateObject(1656, 819.8311, -1585.3917, 14.7419, 0.0000, 90.0000, -112.0000, 150.0000); //Esc_step
+SetObjectMaterial(g_Object[18], 0, 10765, "airportgnd_sfse", "ws_whiteplaster_top", 0xFFFFFFFF);
+g_Object[19] = CreateObject(2659, 819.5811, -1585.4669, 15.1893, 0.0000, 0.0000, -22.0000, 50.0000); //CJ_BANNER05
+SetObjectMaterialText(g_Object[19], "THE", 0, 70, "Georgia", 24, 1, 0xFF000000, 0x0, 1);
+g_Object[20] = CreateObject(2659, 819.5773, -1585.4761, 14.2793, 0.0000, 0.0000, -22.0000, 50.0000); //CJ_BANNER05
+SetObjectMaterialText(g_Object[20], "STAGGERING     STALLION", 0, 70, "Georgia", 22, 1, 0xFF99991E, 0x0, 1);
+g_Object[21] = CreateObject(2659, 819.5773, -1585.4761, 15.1893, 0.0000, 0.0000, -22.0000, 50.0000); //CJ_BANNER05
+SetObjectMaterialText(g_Object[21], "THE", 0, 70, "Georgia", 24, 1, 0xFF99991E, 0x0, 1);
+g_Object[22] = CreateObject(1825, 811.9133, -1583.2022, 12.5284, 0.0000, 0.0000, -22.0000, 100.0000); //kb_table_chairs1
+SetObjectMaterial(g_Object[22], 1, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[23] = CreateObject(2659, 819.5811, -1585.4669, 14.2793, 0.0000, 0.0000, -22.0000, 50.0000); //CJ_BANNER05
+SetObjectMaterialText(g_Object[23], "STAGGERING     STALLION", 0, 70, "Georgia", 22, 1, 0xFF000000, 0x0, 1);
+g_Object[24] = CreateObject(1825, 807.9620, -1581.6066, 12.5284, 0.0000, 0.0000, -22.0000, 100.0000); //kb_table_chairs1
+SetObjectMaterial(g_Object[24], 1, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[25] = CreateObject(1825, 803.7800, -1579.9942, 12.5284, 0.0000, 0.0000, -22.0000, 100.0000); //kb_table_chairs1
+SetObjectMaterial(g_Object[25], 1, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[26] = CreateObject(1720, 809.1914, -1581.8229, 12.5361, 0.0000, 0.0000, -97.4999, 100.0000); //rest_chair
+g_Object[27] = CreateObject(1720, 810.8369, -1582.5458, 12.5361, 0.0000, 0.0000, 52.6000, 100.0000); //rest_chair
+g_Object[28] = CreateObject(1720, 813.0642, -1583.4333, 12.5361, 0.0000, 0.0000, -94.4999, 100.0000); //rest_chair
+g_Object[29] = CreateObject(1720, 811.4352, -1584.1848, 12.5361, 0.0000, 0.0000, 160.0000, 100.0000); //rest_chair
+g_Object[30] = CreateObject(1720, 807.4473, -1582.6276, 12.5361, 0.0000, 0.0000, 160.0000, 100.0000); //rest_chair
+g_Object[31] = CreateObject(1720, 803.3150, -1580.8802, 12.5361, 0.0000, 0.0000, 160.0000, 100.0000); //rest_chair
+g_Object[32] = CreateObject(1720, 806.7157, -1580.9567, 12.5361, 0.0000, 0.0000, 65.8000, 100.0000); //rest_chair
+g_Object[33] = CreateObject(1720, 802.5800, -1579.3281, 12.5361, 0.0000, 0.0000, 61.1000, 100.0000); //rest_chair
+g_Object[34] = CreateObject(1720, 804.9863, -1580.3323, 12.5361, 0.0000, 0.0000, -104.1999, 100.0000); //rest_chair

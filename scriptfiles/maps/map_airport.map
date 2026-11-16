@@ -1,0 +1,9 @@
+new g_Object[6];
+g_Object[0] = CreateObject(2342, 1955.6854, -2181.3857, 13.5249, 0.0000, 0.0000, 149.0000, 100.0000); //donut_disp
+SetObjectMaterial(g_Object[0], 4, 16407, "des_airfieldhus", "plane_photos1", 0xFFFFFFFF);
+g_Object[1] = CreateObject(2008, 1955.6722, -2181.1218, 12.5718, 0.0000, 0.0000, -90.0000, 150.0000); //officedesk1
+g_Object[2] = CreateObject(1663, 1955.3669, -2181.7895, 13.0298, 0.0000, 0.0000, 90.0000, 85.0000); //swivelchair_B
+g_Object[3] = CreateObject(19810, 1952.9068, -2180.1079, 13.8669, 0.0000, 2.1998, 0.0000, 100.0000); //StaffOnlySign1
+g_Object[4] = CreateObject(19479, 1898.5666, -2287.9697, 12.6055, 0.0000, 90.0000, 0.0000, 150.0000); //Plane005
+SetObjectMaterial(g_Object[4], 0, 16098, "des_boneyard", "roucghstone", 0xFFFFFFFF);
+g_Object[5] = CreateObject(1681, 1994.2535, -2251.6591, 14.6443, 0.0000, 0.0000, 121.5998, 200.0000); //ap_learjet1_01

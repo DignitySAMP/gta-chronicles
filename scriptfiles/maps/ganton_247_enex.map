@@ -1,0 +1,34 @@
+new g_Object[19];
+g_Object[0] = CreateObject(-1281, 2450.7717, -1757.4884, 16.0118, 0.0000, 0.0000, 0.0000, 750.0000); //ryhes/ganton24.dff
+g_Object[1] = CreateObject(3278, 2426.5197, -1742.3935, 14.6842, 0.0000, 0.0000, 0.0000, 250.0000); //des_warewin
+SetObjectMaterial(g_Object[1], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[2] = CreateObject(3278, 2428.8403, -1742.3935, 14.6842, 0.0000, 0.0000, 0.0000, 250.0000); //des_warewin
+SetObjectMaterial(g_Object[2], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[3] = CreateObject(3278, 2431.3400, -1742.3935, 13.5038, 0.0000, 180.0000, 0.0000, 250.0000); //des_warewin
+SetObjectMaterial(g_Object[3], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[4] = CreateObject(3278, 2423.6801, -1746.0543, 14.6842, 0.0000, 0.0000, 90.0000, 250.0000); //des_warewin
+SetObjectMaterial(g_Object[4], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[5] = CreateObject(3278, 2423.6801, -1748.2558, 14.6842, 0.0000, 0.0000, 90.0000, 250.0000); //des_warewin
+SetObjectMaterial(g_Object[5], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[6] = CreateObject(3278, 2423.6801, -1750.7458, 14.6842, 0.0000, 180.0000, 90.0000, 250.0000); //des_warewin
+SetObjectMaterial(g_Object[6], 0, 13096, "cunte_wires", "inwindow1shdw", 0xFFFFFFFF);
+g_Object[7] = CreateObject(19329, 2428.7138, -1742.5080, 15.5276, 0.0000, 0.0000, 0.0000, 100.0000); //7_11_sign04
+g_Object[8] = CreateObject(19328, 2431.0881, -1752.6114, 15.0523, 0.0000, 0.0000, 180.0000, 100.0000); //7_11_sign03
+g_Object[9] = CreateObject(19328, 2424.4921, -1752.6114, 15.0523, 0.0000, 0.0000, 180.0000, 100.0000); //7_11_sign03
+g_Object[10] = CreateObject(19329, 2426.6145, -1742.5080, 15.5276, 0.0000, 0.0000, 0.0000, 100.0000); //7_11_sign04
+SetObjectMaterial(g_Object[10], 0, 14690, "7_11_posters", "CJ_7_11_POST", 0xFFFFFFFF);
+g_Object[11] = CreateObject(19329, 2430.8554, -1742.5080, 15.5276, 0.0000, 0.0000, 0.0000, 100.0000); //7_11_sign04
+SetObjectMaterial(g_Object[11], 0, 14690, "7_11_posters", "CJ_7_11_POST", 0xFFFFFFFF);
+g_Object[12] = CreateObject(19329, 2423.7324, -1748.8487, 15.5276, 0.0000, 0.0000, 90.0000, 100.0000); //7_11_sign04
+SetObjectMaterial(g_Object[12], 0, 14690, "7_11_posters", "cokopops_1", 0xFFFFFFFF);
+g_Object[13] = CreateObject(19329, 2423.7324, -1745.8087, 15.5276, 0.0000, 0.0000, 90.0000, 100.0000); //7_11_sign04
+SetObjectMaterial(g_Object[13], 0, 14690, "7_11_posters", "CJ_7_11_POST", 0xFFFFFFFF);
+g_Object[14] = CreateObject(19329, 2426.4633, -1752.6190, 15.5276, 0.0000, 0.0000, 180.0000, 100.0000); //7_11_sign04
+SetObjectMaterial(g_Object[14], 0, 14690, "7_11_posters", "cokopops_1", 0xFFFFFFFF);
+g_Object[15] = CreateObject(19329, 2428.9445, -1752.6190, 15.5276, 0.0000, 0.0000, 180.0000, 100.0000); //7_11_sign04
+SetObjectMaterial(g_Object[15], 0, 14690, "7_11_posters", "cokopops_1", 0xFFFFFFFF);
+g_Object[16] = CreateObject(19329, 2423.7324, -1751.2999, 15.5276, 0.0000, 0.0000, 90.0000, 100.0000); //7_11_sign04
+SetObjectMaterial(g_Object[16], 0, 14690, "7_11_posters", "CJ_7_11_POST", 0xFFFFFFFF);
+g_Object[17] = CreateObject(19327, 2432.0615, -1749.2617, 15.0754, 0.0000, 77.0998, -90.0000, 100.0000); //7_11_sign02
+SetObjectMaterial(g_Object[17], 0, 10765, "airportgnd_sfse", "crackedgroundb", 0xFFFFFFFF);
+g_Object[18] = CreateObject(-1261, 2428.6594, -1748.1262, 12.6969, 0.0000, 0.0000, -90.0000, 250.0000); //ryhes/ganton24_objects.dff

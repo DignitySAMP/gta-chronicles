@@ -1,0 +1,128 @@
+//Map Exported with Texture Studio By: [uL]Pottus////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////and Crayder////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Map Information////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+	Exported on "2022-06-08 17:10:42" by "Cheredre"
+	Created by "Cheredre"
+*/
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Objects////////////////////////////////////////////////////////////////////////////////////////////////////////
+new tmpobjid;
+
+
+tmpobjid = CreateObject(3095, -581.470703, -1260.081665, 20.140167, -5.799989, -1.800001, -15.399996, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 9514, "711_sfw", "ws_carpark2", 0x00000000);
+SetObjectMaterial(tmpobjid, 1, 9514, "711_sfw", "ws_carpark2", 0x00000000);
+tmpobjid = CreateObject(3095, -579.164794, -1251.712524, 18.535362, -15.199987, -1.800001, -15.399996, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 9514, "711_sfw", "ws_carpark2", 0x00000000);
+SetObjectMaterial(tmpobjid, 1, 9514, "711_sfw", "ws_carpark2", 0x00000000);
+tmpobjid = CreateObject(3095, -570.764892, -1269.999633, 21.740003, 0.000000, 0.000000, -6.400000, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 12821, "alleystuff", "planks01", 0x00000000);
+SetObjectMaterial(tmpobjid, 1, 12821, "alleystuff", "planks01", 0x00000000);
+tmpobjid = CreateObject(3095, -569.065368, -1270.189208, 21.199991, 0.000000, 0.000000, -6.400000, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 9514, "711_sfw", "ws_carpark2", 0x00000000);
+SetObjectMaterial(tmpobjid, 1, 12821, "alleystuff", "planks01", 0x00000000);
+tmpobjid = CreateObject(3117, -543.896179, -1282.465698, 22.260717, -0.499998, 3.799998, -4.699996, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 10756, "airportroads_sfse", "stones256128", 0xFFFFFFFF);
+tmpobjid = CreateObject(3117, -541.062866, -1281.989135, 22.085531, 3.799998, 0.299997, 84.700042, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 10756, "airportroads_sfse", "stones256128", 0xFFFFFFFF);
+tmpobjid = CreateObject(3117, -540.734985, -1278.434692, 22.066877, 3.799998, 0.299997, 84.700042, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 10756, "airportroads_sfse", "stones256128", 0xFFFFFFFF);
+tmpobjid = CreateObject(3117, -540.406555, -1274.881103, 22.048206, 3.799998, 0.299997, 84.700042, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 10756, "airportroads_sfse", "stones256128", 0xFFFFFFFF);
+tmpobjid = CreateObject(18767, -570.597412, -1260.225952, 17.387750, 0.000000, 0.000000, -6.499999, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 14710, "vgshm3int2", "HSV_3wall4", 0x00000000);
+tmpobjid = CreateObject(3117, -540.123413, -1273.771362, 22.321283, -7.699996, -15.500018, 78.100135, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 10756, "airportroads_sfse", "stones256128", 0xFFFFFFFF);
+tmpobjid = CreateObject(3117, -539.756530, -1271.640625, 22.914463, -7.699996, -15.500018, 78.100135, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 10756, "airportroads_sfse", "stones256128", 0xFFFFFFFF);
+
+tmpobjid = CreateObject(3095, -569.074768, -1270.187500, 21.750003, 0.000000, 0.000000, -6.400000, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 12821, "alleystuff", "planks01", 0x00000000);
+SetObjectMaterial(tmpobjid, 1, 12821, "alleystuff", "planks01", 0x00000000);
+tmpobjid = CreateObject(3095, -570.697204, -1270.026977, 21.199991, 0.000000, 0.000000, -6.400000, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 9514, "711_sfw", "ws_carpark2", 0x00000000);
+SetObjectMaterial(tmpobjid, 1, 12821, "alleystuff", "planks01", 0x00000000);
+tmpobjid = CreateObject(1446, -566.450500, -1266.015747, 23.066852, 0.000000, 0.000000, 173.599884, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+tmpobjid = CreateObject(1446, -571.111083, -1265.493164, 23.066852, 0.000000, 0.000000, 173.599884, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+tmpobjid = CreateObject(1446, -564.451110, -1268.553222, 23.066852, 0.000000, 0.000000, 83.599884, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+tmpobjid = CreateObject(3879, -562.737792, -1272.991455, 13.900032, 0.000000, 0.000000, 83.900039, 200.00); 
+SetObjectMaterial(tmpobjid, 1, 16640, "a51", "Alumox64", 0x00000000);
+tmpobjid = CreateObject(13011, -574.491699, -1268.551391, 22.752931, 0.000000, 0.000000, 173.699829, 200.00); 
+SetObjectMaterial(tmpobjid, 1, 12821, "alleystuff", "planks01", 0x00000000);
+tmpobjid = CreateObject(2111, -567.341430, -1268.545288, 22.669147, 0.000000, 0.000000, 86.299987, 200.00); 
+SetObjectMaterial(tmpobjid, 0, 12821, "alleystuff", "planks01", 0xFFFFFFFF);
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+tmpobjid = CreateObject(1497, -546.707031, -1283.034423, 22.949024, 0.000000, 0.000000, 90.000000, 200.00); 
+tmpobjid = CreateObject(791, -615.849060, -1286.505126, 18.424364, 0.000000, 0.000000, 50.499965, 200.00); 
+tmpobjid = CreateObject(3276, -597.539978, -1255.172851, 20.933403, 0.000000, -2.199999, -95.099952, 200.00); 
+tmpobjid = CreateObject(3276, -598.579040, -1266.809448, 21.260057, 0.000000, -1.199998, -95.099952, 200.00); 
+tmpobjid = CreateObject(3276, -597.040161, -1278.011352, 21.546533, 0.000000, -2.000000, -67.799972, 200.00); 
+tmpobjid = CreateObject(3276, -541.210449, -1286.505493, 23.054941, 0.000000, 3.699999, 0.000000, 200.00); 
+tmpobjid = CreateObject(3276, -535.449340, -1280.799072, 22.953678, 0.000000, -6.199998, 90.000000, 200.00); 
+tmpobjid = CreateObject(647, -547.023315, -1271.915771, 23.725545, 0.000000, 0.000000, 0.000000, 200.00); 
+tmpobjid = CreateObject(647, -593.054382, -1252.281005, 21.105533, 0.000000, 0.000000, 36.499996, 200.00); 
+tmpobjid = CreateObject(647, -579.525573, -1242.270385, 21.105533, 0.000000, 0.000000, -106.999969, 200.00); 
+tmpobjid = CreateObject(647, -557.740844, -1263.602416, 21.365539, 0.000000, 0.000000, -162.499984, 200.00); 
+tmpobjid = CreateObject(791, -584.832824, -1225.245361, 2.234354, 0.000000, 0.000000, -7.500033, 200.00); 
+tmpobjid = CreateObject(1626, -574.335876, -1261.975830, 24.673479, 0.000000, 0.000000, 175.299957, 200.00); 
+tmpobjid = CreateObject(1688, -584.185180, -1280.473266, 28.006017, 0.000000, 0.000000, -5.500000, 200.00); 
+tmpobjid = CreateObject(1223, -537.402954, -1284.831909, 21.894308, 0.000000, 0.000000, 153.000045, 200.00); 
+tmpobjid = CreateObject(1223, -553.275817, -1274.903076, 22.874332, 0.000000, 0.000000, 52.600040, 200.00); 
+tmpobjid = CreateObject(1223, -590.726318, -1257.435546, 20.094314, 0.000000, 0.000000, 85.000122, 200.00); 
+tmpobjid = CreateObject(1223, -563.323120, -1268.234008, 21.634340, 0.000000, 0.000000, 85.000122, 200.00); 
+tmpobjid = CreateObject(709, -522.997436, -1278.343505, 20.578428, 0.000000, 0.000000, 0.000000, 200.00); 
+tmpobjid = CreateObject(1308, -603.716735, -1248.171508, 20.132989, 0.000000, 0.000000, 0.000000, 200.00); 
+tmpobjid = CreateObject(1486, -567.268737, -1269.093750, 23.213754, 0.000000, 0.000000, 0.000000, 200.00); 
+tmpobjid = CreateObject(647, -537.801208, -1280.325195, 22.365535, 0.000000, 0.000000, -172.099960, 200.00); 
+tmpobjid = CreateObject(2096, -566.755798, -1269.958007, 22.292797, 0.000000, 0.000000, -164.199920, 200.00); 
+tmpobjid = CreateObject(1486, -567.478942, -1268.913574, 23.213754, 0.000000, 0.000000, 0.000000, 200.00); 
+tmpobjid = CreateObject(19831, -570.245849, -1266.021606, 22.265285, 0.000000, 0.000000, -7.300041, 200.00); 
+tmpobjid = CreateObject(1280, -568.167541, -1274.169555, 22.682924, 0.000000, 0.000000, -95.999977, 200.00); 
+tmpobjid = CreateObject(1280, -572.135681, -1273.752197, 22.682924, 0.000000, 0.000000, -97.299957, 200.00); 
+tmpobjid = CreateObject(1616, -588.037475, -1258.146362, 25.926202, 0.000000, 0.000000, -116.199974, 200.00); 
+tmpobjid = CreateObject(1622, -546.309814, -1285.868530, 25.720233, 0.000000, -13.400001, -157.099914, 200.00); 
+tmpobjid = CreateObject(2096, -568.270324, -1269.784667, 22.292797, 0.000000, 0.000000, 149.000122, 200.00); 
+
+
+
+tmpobjid = CreateObject(3599, -567.888366, -1282.723144, 29.500932, 0.000000, 0.000000, 173.699768, 300.00); 
+
+tmpobjid = CreateObject(3582, -559.938781, -1274.657592, 24.329959, 0.000000, 0.000000, -186.100128, 300.00); 
+SetObjectMaterial(tmpobjid, 0, 17566, "contachou1_lae2", "shingles5", 0x00000000);
+SetObjectMaterial(tmpobjid, 1, 14652, "ab_trukstpa", "wood01", 0x00000000);
+SetObjectMaterial(tmpobjid, 2, 10755, "airportrminl_sfse", "ws_airportwin2", 0x00000000);
+SetObjectMaterial(tmpobjid, 3, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+SetObjectMaterial(tmpobjid, 6, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+
+tmpobjid = CreateObject(3556, -550.630859, -1282.051757, 24.942886, 0.000000, 0.000000, 270.000000, 300.00); 
+SetObjectMaterial(tmpobjid, 0, 17566, "contachou1_lae2", "shingles5", 0x00000000);
+SetObjectMaterial(tmpobjid, 1, 14652, "ab_trukstpa", "wood01", 0x00000000);
+SetObjectMaterial(tmpobjid, 2, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+SetObjectMaterial(tmpobjid, 3, 1569, "adam_v_doort", "ws_guardhousedoor", 0x00000000);
+SetObjectMaterial(tmpobjid, 4, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+SetObjectMaterial(tmpobjid, 6, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+
+tmpobjid = CreateObject(8947, -582.753417, -1271.449462, 23.090633, 0.000001, -0.000022, 173.800048, 300.00); 
+SetObjectMaterial(tmpobjid, 1, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+SetObjectMaterial(tmpobjid, 2, 10101, "2notherbuildsfe", "ws_rooftarmac1", 0x00000000);
+tmpobjid = CreateObject(11327, -581.433227, -1259.289672, 23.067731, 0.000022, 0.000000, 83.800010, 300.00); 
+SetObjectMaterial(tmpobjid, 0, -1, "none", "none", 0xFFFFFFFF);
+tmpobjid = CreateObject(8947, -577.872985, -1280.979858, 23.980632, 0.000000, 0.000000, 803.800170, 300.00); 
+SetObjectMaterial(tmpobjid, 1, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+SetObjectMaterial(tmpobjid, 2, 10101, "2notherbuildsfe", "ws_rooftarmac1", 0x00000000);
+tmpobjid = CreateObject(8947, -567.541870, -1282.117187, 23.982631, 0.000000, 0.000000, 983.800170, 300.00); 
+SetObjectMaterial(tmpobjid, 1, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+SetObjectMaterial(tmpobjid, 2, 10101, "2notherbuildsfe", "ws_rooftarmac1", 0x00000000);
+tmpobjid = CreateObject(8947, -586.315795, -1271.093627, 23.060632, 0.000001, -0.000022, 173.800048, 300.00); 
+SetObjectMaterial(tmpobjid, 1, 6351, "rodeo02_law2", "woodboards1", 0x00000000);
+SetObjectMaterial(tmpobjid, 2, 10101, "2notherbuildsfe", "ws_rooftarmac1", 0x00000000);

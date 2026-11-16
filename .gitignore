@@ -1,0 +1,15 @@
+*.amx
+
+dependencies/
+mysql.ini
+crashdetectinfo.txt
+plugins/
+components/
+omp-server
+log-core.so
+sampctl_build_file.inc
+pawn.lock
+scriptfiles/colandreas/ColAndreas.cadb
+announce
+samp-npc
+samp03svr

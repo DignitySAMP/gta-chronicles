@@ -1,0 +1,5 @@
+#include "maps/interior/villatropea.pwn"
+#include "maps/interior/jewelstore.pwn"
+#include "maps/world/dockfence.pwn"
+#include "maps/world/memorial.pwn"
+#include "maps/vc/hogansalley.pwn"

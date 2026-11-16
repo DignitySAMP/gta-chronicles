@@ -1,0 +1,57 @@
+new g_Object[50];
+g_Object[0] = CreateObject(1256, 2843.6396, -1627.1356, 10.7089, 0.0000, 0.0000, -43.7999, 150.0000); //Stonebench1
+g_Object[1] = CreateObject(1256, 2846.8779, -1623.7573, 10.7089, 0.0000, 0.0000, -43.7999, 150.0000); //Stonebench1
+g_Object[2] = CreateObject(1256, 2857.1806, -1599.0422, 10.7089, 0.0000, 0.0000, -28.3999, 150.0000); //Stonebench1
+g_Object[3] = CreateObject(1256, 2857.7302, -1593.6700, 10.7089, 0.0000, 0.0000, 2.7999, 150.0000); //Stonebench1
+g_Object[4] = CreateObject(1256, 2866.6660, -1577.3940, 10.7089, 0.0000, 0.0000, -179.6000, 150.0000); //Stonebench1
+g_Object[5] = CreateObject(1256, 2866.6972, -1581.7746, 10.7089, 0.0000, 0.0000, -179.6000, 150.0000); //Stonebench1
+g_Object[6] = CreateObject(1256, 2885.6523, -1522.5295, 10.7089, 0.0000, 0.0000, 170.7998, 150.0000); //Stonebench1
+g_Object[7] = CreateObject(1256, 2880.6203, -1521.6822, 10.7089, 0.0000, 0.0000, 0.0000, 150.0000); //Stonebench1
+g_Object[8] = CreateObject(1256, 2890.9929, -1490.6472, 10.7089, 0.0000, 0.0000, 178.3999, 150.0000); //Stonebench1
+g_Object[9] = CreateObject(1256, 2890.1328, -1490.6472, 10.7089, 0.0000, 0.0000, -1.5999, 150.0000); //Stonebench1
+g_Object[10] = CreateObject(1256, 2890.3891, -1452.0582, 10.7089, 0.0000, 0.0000, -1.5999, 150.0000); //Stonebench1
+g_Object[11] = CreateObject(1256, 2890.5556, -1446.1611, 10.7089, 0.0000, 0.0000, -1.5999, 150.0000); //Stonebench1
+g_Object[12] = CreateObject(1256, 2891.3508, -1413.2314, 10.7089, 0.0000, 0.0000, -1.1999, 150.0000); //Stonebench1
+g_Object[13] = CreateObject(2673, 2890.3752, -1413.3503, 10.2094, 0.0000, 0.0000, 0.0000, 110.0000); //PROC_RUBBISH_5
+g_Object[14] = CreateObject(1363, 2891.2744, -1406.0566, 10.9229, 0.0000, 0.0000, 0.7997, 150.0000); //CJ_PHONE_KIOSK
+g_Object[15] = CreateObject(1363, 2891.7226, -1438.1933, 10.9229, 0.0000, 0.0000, 0.7997, 150.0000); //CJ_PHONE_KIOSK
+g_Object[16] = CreateObject(1363, 2888.0502, -1500.6107, 10.9229, 0.0000, 0.0000, 0.7997, 150.0000); //CJ_PHONE_KIOSK
+g_Object[17] = CreateObject(1359, 2845.3613, -1625.4825, 10.7615, 0.0000, 0.0000, -45.3997, 120.0000); //CJ_BIN1
+g_Object[18] = CreateObject(1359, 2857.9108, -1596.3957, 10.7615, 0.0000, 0.0000, -45.3997, 120.0000); //CJ_BIN1
+g_Object[19] = CreateObject(1359, 2860.7119, -1575.4831, 10.7417, 0.0000, 0.0000, -45.3997, 120.0000); //CJ_BIN1
+g_Object[20] = CreateObject(1359, 2888.0546, -1513.4897, 10.7417, 0.0000, 0.0000, -45.3997, 120.0000); //CJ_BIN1
+g_Object[21] = CreateObject(1223, 2891.8305, -1419.6507, 9.9020, 0.0000, 0.0000, 180.0000, 150.0000); //lampost_coast
+g_Object[22] = CreateObject(1223, 2891.8305, -1448.9720, 9.9020, 0.0000, 0.0000, 180.0000, 150.0000); //lampost_coast
+g_Object[23] = CreateObject(1223, 2888.1494, -1495.5135, 9.9020, 0.0000, 0.0000, 144.7998, 150.0000); //lampost_coast
+g_Object[24] = CreateObject(1223, 2880.3962, -1527.8354, 9.9020, 0.0000, 0.0000, 79.8000, 150.0000); //lampost_coast
+g_Object[25] = CreateObject(1223, 2864.3334, -1579.8149, 9.9020, 0.0000, 0.0000, 4.5998, 150.0000); //lampost_coast
+g_Object[26] = CreateObject(1223, 2863.0300, -1597.2967, 9.9020, 0.0000, 0.0000, 129.8000, 150.0000); //lampost_coast
+g_Object[27] = CreateObject(642, 2848.0407, -1635.5030, 11.3844, 0.0000, 0.0000, 0.0000, 150.0000); //kb_canopy_test
+g_Object[28] = CreateObject(642, 2847.7390, -1628.4427, 11.3844, 0.0000, 0.0000, 0.0000, 150.0000); //kb_canopy_test
+SetObjectMaterial(g_Object[28], 0, 14785, "gen_offtrackint", "otb_mural4", 0xFFFFFFFF);
+g_Object[29] = CreateObject(642, 2842.7185, -1636.9630, 11.3844, 0.0000, 0.0000, 0.0000, 150.0000); //kb_canopy_test
+SetObjectMaterial(g_Object[29], 0, 14785, "gen_offtrackint", "otb_mural2", 0xFFFFFFFF);
+g_Object[30] = CreateObject(642, 2853.0795, -1628.7235, 11.3844, 0.0000, 0.0000, 0.0000, 150.0000); //kb_canopy_test
+SetObjectMaterial(g_Object[30], 0, 2212, "burger_tray", "sprunk_cb", 0xFFFFFFFF);
+g_Object[31] = CreateObject(1340, 2847.5134, -1643.8050, 11.1372, 0.0000, 0.0000, 101.9999, 120.0000); //chillidogcart
+g_Object[32] = CreateObject(10236, 2821.0510, -1470.9283, 29.4923, 0.0000, 0.0000, 90.0000, 150.0000); //hotelbits_Sfe06
+g_Object[33] = CreateObject(1825, 2842.6955, -1635.9353, 10.0402, 0.0000, 0.0000, -23.2000, 150.0000); //kb_table_chairs1
+g_Object[34] = CreateObject(1825, 2846.4541, -1632.3453, 10.0402, 0.0000, 0.0000, -23.2000, 150.0000); //kb_table_chairs1
+g_Object[35] = CreateObject(1825, 2849.2197, -1634.8453, 10.0402, 0.0000, 0.0000, -105.1996, 150.0000); //kb_table_chairs1
+g_Object[36] = CreateObject(1825, 2852.2866, -1628.1252, 10.0402, 0.0000, 0.0000, -105.1996, 150.0000); //kb_table_chairs1
+g_Object[37] = CreateObject(1825, 2847.8552, -1628.5157, 10.0402, 0.0000, 0.0000, -42.9999, 150.0000); //kb_table_chairs1
+g_Object[38] = CreateObject(2456, 2845.9958, -1638.8857, 10.0354, 0.0000, 0.0000, 24.2000, 110.0000); //CJ_FF_STAND02
+g_Object[39] = CreateObject(1340, 2840.6950, -1642.4853, 11.1372, 0.0000, 0.0000, 47.7999, 120.0000); //chillidogcart
+SetObjectMaterial(g_Object[39], 6, 2767, "cb_details", "kidsfront_cb", 0xFFFFFFFF);
+g_Object[40] = CreateObject(2456, 2842.8740, -1630.0212, 10.0354, 0.0000, 0.0000, 57.5998, 110.0000); //CJ_FF_STAND02
+SetObjectMaterial(g_Object[40], 1, 2767, "cb_details", "fillet_cb", 0xFFFFFFFF);
+g_Object[41] = CreateObject(2428, 2850.1735, -1627.3519, 10.1007, 0.0000, 0.0000, -34.7999, 110.0000); //CJ_FF_STAND1
+g_Object[42] = CreateObject(18099, 2843.8249, -1639.0028, 10.1147, 0.0000, 0.0000, -76.3999, 110.0000); //cj_RUBBISH
+g_Object[43] = CreateObject(2676, 2838.4357, -1640.2010, 10.3233, 0.0000, 0.0000, -62.4000, 100.0000); //PROC_RUBBISH_8
+g_Object[44] = CreateObject(1340, 2842.0754, -1632.4582, 11.1773, 0.0000, 0.0000, -4.1999, 120.0000); //chillidogcart
+SetObjectMaterial(g_Object[44], 6, 2212, "burger_tray", "sprunk_cb", 0xFFFFFFFF);
+g_Object[45] = CreateObject(1257, 2856.8540, -1528.6123, 11.3205, 0.0000, 0.0000, 160.6000, 150.0000); //bustopm
+g_Object[46] = CreateObject(1257, 2883.7536, -1440.1761, 11.3205, 0.0000, 0.0000, -0.1999, 150.0000); //bustopm
+g_Object[47] = CreateObject(718, 2893.2885, -1424.3808, 9.9680, 0.0000, 0.0000, 0.0000, 150.0000); //vgs_palm04
+g_Object[48] = CreateObject(718, 2888.9665, -1460.4016, 9.9680, 0.0000, 0.0000, 0.0000, 150.0000); //vgs_palm04
+g_Object[49] = CreateObject(718, 2886.8486, -1505.7209, 9.9680, 0.0000, 0.0000, -25.3999, 150.0000); //vgs_palm04

@@ -1,0 +1,16 @@
+new g_Object[15];
+g_Object[0] = CreateObject(-1121, 1649.4420, -1833.0937, 16.0459, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_1.dff
+g_Object[1] = CreateObject(-1120, 1667.7187, -1807.9339, 29.7040, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_officebits.dff
+g_Object[2] = CreateObject(-1119, 1611.9720, -1813.2850, 15.2567, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_2.dff
+g_Object[3] = CreateObject(-1118, 1629.2707, -1818.1988, 9.2847, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_bsmtbits.dff
+g_Object[4] = CreateObject(-1117, 1622.9780, -1794.9189, 14.2307, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_garbits.dff
+g_Object[5] = CreateObject(-1116, 1632.8220, -1812.2889, 19.8129, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_alphas_1.dff
+g_Object[6] = CreateObject(-1115, 1619.1468, -1823.7330, 12.5537, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_alphas_2.dff
+g_Object[7] = CreateObject(-1114, 1635.2020, -1851.1300, 17.6030, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_aptbits.dff
+g_Object[8] = CreateObject(-1113, 1629.4610, -1812.2889, 13.5228, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_bits_1.dff
+g_Object[9] = CreateObject(-1112, 1630.2137, -1814.7878, 13.7690, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_bits_2.dff
+g_Object[10] = CreateObject(-1111, 1629.4609, -1812.2889, 13.5234, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_land.dff
+g_Object[11] = CreateObject(-1110, 1669.7910, -1812.8540, 28.9139, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_officealphas.dff
+g_Object[12] = CreateObject(-1109, 1608.1330, -1835.7209, 16.6690, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_mecgar_bits.dff
+g_Object[13] = CreateObject(-1108, 1662.4698, -1825.1560, 12.6300, 0.0000, 0.0000, 0.0000, 800.0000); //LMX/lmx_storebits.dff
+g_Object[14] = CreateObject(-1107, 1624.6650, -1833.9570, 28.7280, 0.0000, 0.0000, 15.0000, 800.0000); //LMX/vbfw_fence.dff

@@ -1,0 +1,59 @@
+{
+    "name": "GTA Chronicles",
+    "announce": false,
+    "max_players": 150,
+    "max_bots": 25,
+    "password": "",
+    "rcon": {
+        "allow_teleport": false,
+        "enable": true,
+        "password": "CHANGE_ME_before_first_start"
+    },
+    "pawn": {
+        "main_scripts": [
+            "gamemode 1"
+        ],
+        "side_scripts": [],
+        "legacy_plugins": [
+            "crashdetect",
+            "fsutil",
+            "streamer",
+            "mysql",
+            "ColAndreas_static",
+            "pawnregex",
+            "samp_bcrypt"
+        ]
+    },
+    "network": {
+        "acks_limit": 50000,
+        "message_hole_limit": 10000,
+        "port": 7788,
+        "stream_radius": 300.0,
+        "stream_rate": 1000,
+        "on_foot_sync_rate": 25,
+        "in_vehicle_sync_rate": 25,
+        "aiming_sync_rate": 20,
+        "use_lan_mode": false,
+        "allow_037_clients": false
+    },
+    "language": "English",
+    "website": "www.sa-mp.com",
+    "game": {
+        "map": "San Andreas",
+        "mode": "GTAC:RP"
+    },
+    "artwork": {
+        "enable": true,
+        "models_path": "models",
+        "web_server_bind": "0.0.0.0",
+        "cdn": "",
+        "port": 7788
+    },
+    "discord": {
+        "bot_token": ""
+    },
+    "enable_query": true,
+    "logging": {
+        "log_chat": false
+    }
+}

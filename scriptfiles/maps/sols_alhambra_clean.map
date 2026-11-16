@@ -1,0 +1,36 @@
+new g_Object[31];
+g_Object[0] = CreateObject(-1138, 1941.6600, -1682.5710, 12.4770, 0.0000, 0.0000, 0.0000, 5000.0000); //3101/alhambra_roads.dff
+g_Object[1] = CreateObject(-1146, 1851.4637, -1663.6250, 13.8887, 0.0000, 0.0000, 0.0000, 1000.0000); //3101/alhambra_1.dff
+g_Object[2] = CreateObject(-1145, 1901.0300, -1629.1778, 14.2440, 0.0000, 0.0000, 0.0000, 1000.0000); //3101/alhambra_2.dff
+g_Object[3] = CreateObject(-1144, 1851.1568, -1719.3070, 16.5079, 0.0000, 0.0000, 0.0000, 1000.0000); //3101/alhambra_3.dff
+g_Object[4] = CreateObject(-1143, 1910.5898, -1705.7480, 21.3080, 0.0000, 0.0000, 0.0000, 1000.0000); //3101/alhambra_4.dff
+g_Object[5] = CreateObject(-1137, 1867.8590, -1781.7889, 15.7700, 0.0000, 0.0000, 0.0000, 1000.0000); //3101/alhambra_sm.dff
+g_Object[6] = CreateObject(-1139, 1932.3487, -1562.3658, 12.6660, 0.0000, 0.0000, 0.0000, 1000.0000); //3101/alhambra_projects.dff
+g_Object[7] = CreateObject(-1140, 1968.4709, -1678.2910, 12.8450, 0.0000, 0.0000, 0.0000, 1000.0000); //3101/alhambra_houses.dff
+g_Object[8] = CreateObject(-1141, 1933.8120, -1724.3010, 21.6560, 0.0000, 0.0000, 0.0000, 1000.0000); //3101/alhambra_bits.dff
+g_Object[9] = CreateObject(-1142, 1930.4720, -1657.1280, 24.4920, 0.0000, 0.0000, 0.0000, 1000.0000); //3101/alhambra_alphas.dff
+g_Object[10] = CreateObject(1280, 1870.0743, -1628.4344, 12.8898, 0.0000, 0.0000, 0.0000, 150.0000); //parkbench1
+g_Object[11] = CreateObject(1280, 1870.0743, -1637.1756, 12.8898, 0.0000, 0.0000, 0.0000, 150.0000); //parkbench1
+g_Object[12] = CreateObject(-1255, 1868.6689, -1645.6555, 13.3957, 0.0000, 0.0000, 0.0000, 500.0000); //reyo/alley_bits.dff
+g_Object[13] = CreateObject(647, 1849.2856, -1626.8664, 13.4863, 0.0000, 0.0000, 0.0000, 500.0000); //new_bushsm
+g_Object[14] = CreateObject(1283, 1882.3863, -1623.1634, 15.6148, 0.0000, 0.0000, 0.0000, 500.0000); //MTraffic1
+g_Object[15] = CreateObject(1283, 1893.1092, -1657.8066, 15.6148, 0.0000, 0.0000, 90.0000, 500.0000); //MTraffic1
+g_Object[16] = CreateObject(647, 1859.6466, -1626.1661, 13.4863, 0.0000, 0.0000, -42.7999, 500.0000); //new_bushsm
+g_Object[17] = CreateObject(1226, 1888.5771, -1671.2119, 16.3145, 0.0000, 0.0000, 0.0000, 500.0000); //lamppost3
+g_Object[18] = CreateObject(1226, 1888.5771, -1638.9525, 16.3145, 0.0000, 0.0000, 0.0000, 500.0000); //lamppost3
+g_Object[19] = CreateObject(1226, 1872.7170, -1666.4436, 16.3145, 0.0000, 0.0000, 180.0000, 500.0000); //lamppost3
+g_Object[20] = CreateObject(1226, 1858.4173, -1691.4211, 16.3145, 0.0000, 0.0000, -90.0000, 500.0000); //lamppost3
+g_Object[21] = CreateObject(19450, 1628.7058, -1200.2943, 35.9883, 0.0000, 90.0000, 89.1996, 200.0000); //wall090
+SetObjectMaterial(g_Object[21], 0, 19297, "matlights", "invisible", 0xFFFFFFFF);
+g_Object[22] = CreateObject(2736, 1631.4825, -1200.1517, 23.9304, 0.0000, 0.0000, 0.0000, 300.0000); //CJ_ZIP_POST_05
+SetObjectMaterial(g_Object[22], 0, 10864, "bridgeland_sfse", "prolaps02", 0xFFFFFFFF);
+g_Object[23] = CreateObject(1522, 1625.7716, -1199.5548, 35.9444, 0.0000, 0.0000, 0.0000, 200.0000); //Gen_doorSHOP3
+SetObjectMaterial(g_Object[23], 0, 18246, "cw_junkyard2cs_t", "Was_scrpyd_door_dbl_grey", 0xFFFFFFFF);
+g_Object[24] = CreateObject(1522, 1630.7021, -1199.5648, 35.9444, 0.0000, 0.0000, 0.0000, 200.0000); //Gen_doorSHOP3
+SetObjectMaterial(g_Object[24], 0, 18246, "cw_junkyard2cs_t", "Was_scrpyd_door_dbl_grey", 0xFFFFFFFF);
+g_Object[25] = CreateObject(4227, 1811.5620, -1788.9355, 14.3879, 0.0000, 0.0000, 90.1996, 300.0000); //graffiti_lan01
+g_Object[26] = CreateObject(1256, 1729.8254, -1772.7823, 13.1225, 0.0000, 0.0000, 0.0000, 100.0000); //Stonebench1
+g_Object[27] = CreateObject(1256, 1729.8254, -1785.4228, 13.1225, 0.0000, 0.0000, 0.0000, 100.0000); //Stonebench1
+g_Object[28] = CreateObject(1256, 1706.6650, -1785.4228, 13.1920, 0.0000, 0.0000, 180.0000, 100.0000); //Stonebench1
+g_Object[29] = CreateObject(1256, 1706.6650, -1769.9033, 13.1724, 0.0000, 0.0000, 180.0000, 100.0000); //Stonebench1
+g_Object[30] = CreateObject(-1167, 1777.4375, -1782.3044, 12.6250, 0.0000, 0.0000, 0.0000, 1000.0000); //reyo/unityst.dff

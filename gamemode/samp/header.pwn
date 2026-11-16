@@ -1,0 +1,8 @@
+#include "samp/sf_building1.pwn"
+#include "samp/kylies_barn.pwn"
+#include "samp/ls_beachside.pwn"
+#include "samp/ls_wellsfargo.pwn"
+#include "samp/dillimore_gas.pwn"
+#include "samp/a51_base.pwn"
+#include "samp/des_trailer.pwn"
+#include "samp/ls_apartments1.pwn"

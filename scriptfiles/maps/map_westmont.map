@@ -1,0 +1,18 @@
+new g_Object[13];
+g_Object[0] = CreateObject(-1226, 2141.8728, -1884.4298, 12.6302, 0.0000, 0.0000, 0.0000, 800.0000); //ryhes/westmont/reyo_wm_bits.dff
+g_Object[1] = CreateObject(-1228, 2163.6718, -1873.6169, 15.8203, 0.0000, 0.0000, 0.0000, 800.0000); //ryhes/westmont/reyo_westmont1.dff
+g_Object[2] = CreateObject(-1223, 2167.0390, -1925.2031, 15.8281, 0.0000, 0.0000, 0.0000, 800.0000); //ryhes/westmont/westmont2.dff
+g_Object[3] = CreateObject(-1227, 2100.7656, -1870.1402, 13.7693, 0.0000, 0.0000, 90.0000, 800.0000); //ryhes/westmont/reyo_westmont2.dff
+g_Object[4] = CreateObject(-1224, 2115.0000, -1921.5234, 15.3900, 0.0000, 0.0000, 0.0000, 800.0000); //ryhes/westmont/westmont_4.dff
+g_Object[5] = CreateObject(-1225, 2115.0000, -1921.5234, 15.3906, 0.0000, 0.0000, 0.0000, 800.0000); //ryhes/westmont/w_bits2.dff
+g_Object[6] = CreateObject(-1318, 2137.6499, -1875.9392, 13.4343, 90.0000, -123.6997, 0.0000, 250.0000); //reyo/armchair
+SetObjectMaterial(g_Object[6], 1, 10023, "bigwhitesfe", "bigwhite_4", 0xFFFFFFFF);
+g_Object[7] = CreateObject(-1318, 2135.0769, -1875.8315, 13.4343, 90.0000, -73.1997, 0.0000, 250.0000); //reyo/armchair
+SetObjectMaterial(g_Object[7], 1, 10023, "bigwhitesfe", "bigwhite_4", 0xFFFFFFFF);
+g_Object[8] = CreateObject(-1330, 2136.2773, -1875.5288, 13.7306, 0.0000, 0.0000, -0.6998, 250.0000); //reyo/beernew2.dff
+g_Object[9] = CreateObject(1433, 2136.2365, -1875.9720, 13.1090, 0.0000, 0.0000, 0.0000, 250.0000); //DYN_TABLE_1
+SetObjectMaterial(g_Object[9], 0, 14825, "genintint2_gym", "plywood3_gym", 0xFFFFFFFF);
+g_Object[10] = CreateObject(1510, 2136.3305, -1876.1499, 13.6288, 0.0000, 0.0000, 0.0000, 250.0000); //DYN_ASHTRY
+g_Object[11] = CreateObject(19772, 2133.6635, -1947.3736, 13.0356, 0.0000, 0.0000, 0.0000, 150.0000); //CrushedCarCube1
+SetObjectMaterial(g_Object[11], 0, 17566, "contachou1_lae2", "weelecbox", 0xFFFFFFFF);
+g_Object[12] = CreateObject(946, 2156.7983, -1941.1602, 14.7378, 0.0000, 0.0000, 90.0000, 250.0000); //bskball_lax

@@ -1,0 +1,25 @@
+new g_Object[13];
+g_Object[2] = CreateObject(7709, 1427.2373, -1354.9210, 14.0492, 0.0000, 0.0000, 0.0000, 100.0000); //vgwbom1
+SetObjectMaterial(g_Object[2], 0, 9524, "blokmodb", "sf_garagedr1", 0xFFFFFFFF);
+g_Object[3] = CreateObject(3850, 1427.6317, -1333.3114, 29.1235, 0.0000, 0.0000, 0.0000, 100.0000); //carshowbann_SFSX
+SetObjectMaterial(g_Object[3], 0, 16640, "a51", "a51_handrail", 0xFFFFFFFF);
+g_Object[4] = CreateObject(3850, 1441.9322, -1331.5809, 29.1235, 0.0000, 0.0000, 90.0000, 100.0000); //carshowbann_SFSX
+SetObjectMaterial(g_Object[4], 0, 16640, "a51", "a51_handrail", 0xFFFFFFFF);
+g_Object[5] = CreateObject(3850, 1443.6523, -1333.3214, 29.1235, 0.0000, 0.0000, 0.0000, 100.0000); //carshowbann_SFSX
+SetObjectMaterial(g_Object[5], 0, 16640, "a51", "a51_handrail", 0xFFFFFFFF);
+g_Object[6] = CreateObject(3850, 1438.4803, -1331.5809, 29.1235, 0.0000, 0.0000, 90.0000, 100.0000); //carshowbann_SFSX
+SetObjectMaterial(g_Object[6], 0, 16640, "a51", "a51_handrail", 0xFFFFFFFF);
+g_Object[7] = CreateObject(3850, 1435.0412, -1331.5809, 29.1235, 0.0000, 0.0000, 90.0000, 100.0000); //carshowbann_SFSX
+SetObjectMaterial(g_Object[7], 0, 16640, "a51", "a51_handrail", 0xFFFFFFFF);
+g_Object[8] = CreateObject(3850, 1431.6009, -1331.5809, 29.1235, 0.0000, 0.0000, 90.0000, 100.0000); //carshowbann_SFSX
+SetObjectMaterial(g_Object[8], 0, 16640, "a51", "a51_handrail", 0xFFFFFFFF);
+g_Object[9] = CreateObject(3850, 1429.3205, -1331.5809, 29.1235, 0.0000, 0.0000, 90.0000, 100.0000); //carshowbann_SFSX
+SetObjectMaterial(g_Object[9], 0, 16640, "a51", "a51_handrail", 0xFFFFFFFF);
+g_Object[10] = CreateObject(1522, 1432.2303, -1334.8630, 28.7798, 0.0000, 0.0000, 0.0000, 100.0000); //Gen_doorSHOP3
+SetObjectMaterial(g_Object[10], 0, 17532, "lae2grnd", "sw_door14", 0xFFFFFFFF);
+g_Object[11] = CreateObject(12958, 1441.1905, -1337.3454, 31.7192, 0.0000, 0.0000, 180.0000, 100.0000); //cos_sbanksteps01
+SetObjectMaterial(g_Object[11], 0, 16640, "a51", "a51_handrail", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[11], 1, 14548, "ab_cargo_int", "metal_frame", 0xFFFFFFFF);
+g_Object[12] = CreateObject(11496, 1435.6302, -1334.0777, 28.5853, 0.0000, 0.0000, -90.0000, 100.0000); //des_wjetty
+SetObjectMaterial(g_Object[12], 0, 14415, "carter_block_2", "mp_carter_cage", 0xFFFFFFFF);
+SetObjectMaterial(g_Object[12], 1, 14415, "carter_block_2", "mp_carter_cage", 0xFFFFFFFF);
